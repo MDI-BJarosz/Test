@@ -1,0 +1,418 @@
+person_id,household_id,bike_days_per_month,no_disability,gave_up_driving,is_worker,work_location,work_commute_usual_mode,is_driver,drives_for_work,work_vehicle_type,education_level,employer_transit_pass,work_distance_mi,age,hispanic,race,sex,enrolled_in_school
+1,9000013598,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,67,Not Hispanic,White,Female,No
+2,9000013598,,Not Selected,Not Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,83,Not Hispanic,White,Male,No
+1,9000013761,,Selected,Not Selected,Not worker,,,Yes,,,Bachelor's degree,,,81,Not Hispanic,White,Male,No
+1,9000013970,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,3.40905090936106,58,Not Hispanic,White,Female,No
+1,9000013987,,,,Not worker,,,Yes,,,Bachelor's degree,,,70,Not Hispanic,White,Male,No
+2,9000013987,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,70,Not Hispanic,White,Female,No
+1,9000014608,1,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,8.21779485952098,48,Not Hispanic,White,Female,No
+2,9000014608,,,,Worker,Only one work location outside of home,Van,Yes,No,,Associates degree (2-year)/ trade school certificate,,9.8652123998883,47,Not Hispanic,White,Male,No
+3,9000014608,,,,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,16,Not Hispanic,White,Female,Yes
+1,9000015362,,,,Not worker,,,Yes,,,Bachelor's degree,,,67,Not Hispanic,American Indian/Alaska Native,Male,No
+2,9000015362,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,"Some college, no degree/ some trade school",,,61,Not Hispanic,White,Female,No
+1,9000015657,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,26,Not Hispanic,White,Female,No
+2,9000015657,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,27,Not Hispanic,Asian,Male,No
+1,9000015676,7,,,Not worker,,,Yes,,,Bachelor's degree,,,56,Not Hispanic,White,Male,No
+2,9000015676,7,,,Not worker,,,Yes,,,Bachelor's degree,,,52,Not Hispanic,White,Female,No
+1,9000015987,,Selected,Not Selected,Not worker,,,Yes,,,Bachelor's degree,,,84,Not Hispanic,White,Male,No
+2,9000015987,,Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,84,Not Hispanic,White,Female,No
+1,9000017013,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,3.37022949488487,31,Not Hispanic,White,Female,Yes
+2,9000017013,,Not Selected,Not Selected,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,3.49828563415721,77,Not Hispanic,White,Female,No
+1,9000017491,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,57,Hispanic,White,Male,No
+1,9000017779,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,76,Not Hispanic,White,Female,No
+1,9000017855,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,34,Not Hispanic,White,Female,No
+2,9000017855,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,36,Not Hispanic,White,Male,No
+3,9000017855,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Female,Yes
+4,9000017855,,,,,,,,,,,,,13,Not Hispanic,White,Male,Yes
+1,9000018292,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,64,Not Hispanic,White,Male,No
+1,9000018932,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,18,Not Hispanic,Native Hawaiian/Pacific Islander,Female,No
+2,9000018932,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,34,Not Hispanic,Black or African American,Male,No
+3,9000018932,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,46,Not Hispanic,Native Hawaiian/Pacific Islander,Female,No
+4,9000018932,,,,,,,,,,,,,12,Not Hispanic,Black or African American,Female,Yes
+5,9000018932,,,,,,,,,,,,,9,Not Hispanic,Black or African American,Female,Yes
+1,9000019163,,Not Selected,Not Selected,Not worker,,,Yes,,,Master's degree,,,81,Not Hispanic,White,Male,No
+2,9000019163,,,,Not worker,,,Yes,,,Bachelor's degree,,,79,Not Hispanic,White,Female,No
+1,9000045802,10,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,26,Not Hispanic,White,Male,No
+2,9000045802,8,,,Worker,Only one work location outside of home,Public or commuter bus,Yes,No,,Master's degree,,1.21903253163611,25,Not Hispanic,White,Female,Yes
+1,9000046280,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,67,Not Hispanic,White,Female,No
+2,9000046280,,,,Worker,Only one work location outside of home,Car,Yes,No,,Professional/Doctorate degree,,3.15881334550307,60,Not Hispanic,White,Female,No
+1,9000046832,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,53,Not Hispanic,White,Female,No
+2,9000046832,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,40,Hispanic,Other race,Male,No
+3,9000046832,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,32,Not Hispanic,White,Male,No
+4,9000046832,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,2.49146182524646,26,Not Hispanic,White,Female,No
+1,9000047615,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,No,,Bachelor's degree,,,55,Not Hispanic,White,Male,No
+2,9000047615,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"No, use non-household vehicle",Master's degree,,0.0,55,Not Hispanic,White,Female,No
+3,9000047615,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Male,Yes
+4,9000047615,,,,,,,,,,,,,13,Not Hispanic,White,Male,Yes
+1,9000048058,,,,Not worker,,,Yes,,,Bachelor's degree,,,70,Hispanic,White,Male,No
+2,9000048058,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,65,Hispanic,White,Female,No
+3,9000048058,,,,Not worker,,,No,,,"Some high school, no diploma/GED",,,33,Hispanic,White,Female,No
+1,9000049458,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"No, use non-household vehicle",Master's degree,,0.0,55,Not Hispanic,White,Male,No
+2,9000049458,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,No,,Master's degree,,0.568018677367601,52,Not Hispanic,White,Female,No
+3,9000049458,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,21,Not Hispanic,Asian,Male,No
+4,9000049458,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,0.568018677367601,19,Not Hispanic,Asian,Female,Yes
+5,9000049458,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Male,Yes
+1,9000049519,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,0.0,51,Not Hispanic,American Indian/Alaska Native,Male,No
+2,9000049519,,,,Worker,"Only work at home (telework, self-employed)",,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,,55,Not Hispanic,American Indian/Alaska Native,Female,No
+3,9000049519,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,24,Not Hispanic,American Indian/Alaska Native,Female,No
+1,9000051050,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,"Some college, no degree/ some trade school",,0.656000524214245,52,Not Hispanic,White,Female,No
+2,9000051050,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,40.1423187140053,53,Not Hispanic,White,Male,No
+3,9000051050,,,,Worker,Only one work location outside of home,Car,Yes,No,,Less than high school,,13.5737427076655,18,Not Hispanic,White,Female,Yes
+4,9000051050,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Male,Yes
+1,9000051203,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,4.76987829919329,50,Not Hispanic,White,Female,No
+1,9000051492,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Master's degree,,8.03913700869325,42,Not Hispanic,White,Male,No
+2,9000051492,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Master's degree,,23.7096113042881,31,Not Hispanic,White,Female,No
+3,9000051492,,,,,,,,,,,,,10,Not Hispanic,White,Female,Yes
+1,9000051620,,,,Worker,Only one work location outside of home,Walked,Yes,No,,"Some college, no degree/ some trade school",,4.76850703048368,51,Not Hispanic,White,Female,No
+1,9000051740,,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle",Master's degree,,10.1375010175712,73,Not Hispanic,White,Female,No
+1,9000051789,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,28,Not Hispanic,Asian,Female,No
+2,9000051789,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Professional/Doctorate degree,,,28,Not Hispanic,White,Male,No
+1,9000051820,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,15.0345038715747,38,Not Hispanic,White,Female,No
+2,9000051820,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,Yes,"No, use non-household vehicle","Some college, no degree/ some trade school",,20.8730350337832,38,Not Hispanic,White,Male,No
+1,9000051842,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,65,Not Hispanic,White,Female,No
+2,9000051842,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,69,Not Hispanic,White,Male,No
+1,9000052001,,Not Selected,Selected,Not worker,,,Yes,,,Bachelor's degree,,,78,Not Hispanic,White,Male,No
+2,9000052001,,Not Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,81,Not Hispanic,White,Male,No
+1,9000052411,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,41,Not Hispanic,White,Female,No
+2,9000052411,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,63,Not Hispanic,White,Male,No
+1,9000052506,,,,Not worker,,,Yes,,,Bachelor's degree,,,66,Not Hispanic,White,Female,No
+1,9000052528,,,,Not worker,,,Yes,,,Bachelor's degree,,,73,Not Hispanic,White,Male,No
+1,9000052666,,,,Not worker,,,Yes,,,Bachelor's degree,,,58,Not Hispanic,Multiple races selected,Female,No
+2,9000052666,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,,67,Not Hispanic,White,Male,No
+3,9000052666,,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,11.5114406879006,24,Not Hispanic,Multiple races selected,Male,No
+1,9000052794,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,No,,Master's degree,,5.3565639868256,42,Not Hispanic,White,Female,No
+2,9000052794,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Associates degree (2-year)/ trade school certificate,,,46,Not Hispanic,White,Male,No
+1,9000053083,,,,Not worker,,,Yes,,,Bachelor's degree,,,70,Not Hispanic,White,Male,No
+2,9000053083,,,,Not worker,,,Yes,,,Bachelor's degree,,,69,Not Hispanic,White,Female,No
+1,9000053102,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,42,Hispanic,White,Male,No
+2,9000053102,,Not Selected,Not Selected,Not worker,,,No,,,"Some college, no degree/ some trade school",,,19,Hispanic,White,Female,Yes
+1,9000054713,0,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,60,Not Hispanic,White,Male,No
+2,9000054713,4,,,Not worker,,,No,,,"Some high school, no diploma/GED",,,22,Not Hispanic,White,Male,No
+1,9000055757,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Associates degree (2-year)/ trade school certificate,,5.06570360219832,42,Not Hispanic,White,Female,No
+2,9000055757,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Associates degree (2-year)/ trade school certificate,,4.1471209918659,41,Not Hispanic,White,Male,No
+3,9000055757,,,,,,,,,,,,,11,Not Hispanic,White,Female,Yes
+4,9000055757,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+1,9000056034,,,,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,79,Not Hispanic,White,Male,No
+1,9000056572,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,65,Hispanic,White,Male,No
+2,9000056572,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Associates degree (2-year)/ trade school certificate,,,61,Hispanic,White,Female,No
+3,9000056572,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,16.3141093507113,28,Hispanic,White,Female,Yes
+1,9000056603,,,,Not worker,,,Yes,,,Master's degree,,,67,Not Hispanic,White,Male,No
+2,9000056603,,,,Not worker,,,Yes,,,Master's degree,,,66,Not Hispanic,White,Female,No
+3,9000056603,,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle",Master's degree,,10.756856344413,27,Not Hispanic,White,Male,No
+1,9000057281,,,,Worker,"Only work at home (telework, self-employed)",,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,,76,Not Hispanic,White,Male,No
+2,9000057281,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,"Some college, no degree/ some trade school",,,70,Hispanic,White,Female,No
+1,9000057304,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,32.715516587398,44,Not Hispanic,White,Male,Yes
+2,9000057304,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Associates degree (2-year)/ trade school certificate,,1.31832622642833,44,Not Hispanic,White,Female,No
+3,9000057304,,,,Not worker,,,No,,,"Some high school, no diploma/GED",,,16,Not Hispanic,White,Male,Yes
+1,9000057949,,,,Worker,Only one work location outside of home,,Yes,No,,Associates degree (2-year)/ trade school certificate,,,64,Not Hispanic,White,Female,No
+2,9000057949,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,"High school graduate, have diploma/GED",,,62,Not Hispanic,White,Male,No
+1,9000072912,,,,Not worker,,,Yes,,,Bachelor's degree,,,69,Not Hispanic,White,Female,No
+2,9000072912,,Not Selected,Selected,Not worker,,,No,,,"Some college, no degree/ some trade school",,,92,Not Hispanic,White,Female,No
+1,9000073284,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,71,Not Hispanic,White,Male,No
+1,9000073569,2,Not Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,50,Not Hispanic,White,Female,No
+1,9000074014,,,,Not worker,,,Yes,,,Bachelor's degree,,,66,Not Hispanic,White,Female,No
+2,9000074014,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,0.0,67,Not Hispanic,White,Male,No
+3,9000074014,,,,,,,,,,,,,12,Not Hispanic,White,Female,No
+1,9000074147,,,,Worker,Only one work location outside of home,Car,Yes,No,,Professional/Doctorate degree,,24.4779600993278,67,Not Hispanic,White,Male,No
+2,9000074147,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,67,Not Hispanic,White,Female,No
+1,9000074455,8,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,2.25582508066271,28,Not Hispanic,White,Male,No
+2,9000074455,,Not Selected,Not Selected,Not worker,,,No,,,Bachelor's degree,,,68,Not Hispanic,White,Male,No
+1,9000075021,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,72,Not Hispanic,Black or African American,Male,No
+2,9000075021,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,73,Not Hispanic,Black or African American,Female,No
+1,9000075136,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,"No, use non-household vehicle","High school graduate, have diploma/GED",,0.425351523588003,27,Not Hispanic,White,Male,No
+2,9000075136,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,0.84110233746336,27,Not Hispanic,White,Female,No
+3,9000075136,,,,,,,,,,,,,7,Not Hispanic,White,Male,Yes
+4,9000075136,,,,,,,,,,,,,6,Not Hispanic,White,Male,Yes
+1,9000075214,,,,Not worker,,,Yes,,,Master's degree,,,75,Not Hispanic,White,Male,No
+2,9000075214,,,,Not worker,,,No,,,Bachelor's degree,,,66,Not Hispanic,White,Female,No
+1,9000075635,,Selected,Not Selected,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,,81,Not Hispanic,White,Male,No
+2,9000075635,,Not Selected,Not Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,56,Not Hispanic,White,Female,No
+1,9000076382,,,,Not worker,,,Yes,,,Less than high school,,,51,Hispanic,White,Female,No
+1,9000076607,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,3.01505990999897,57,Not Hispanic,White,Female,No
+2,9000076607,,,,Not worker,,,Yes,,,Master's degree,,,57,Not Hispanic,White,Male,No
+3,9000076607,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Bachelor's degree,,6.62832215081392,23,Not Hispanic,White,Male,No
+4,9000076607,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,24,Not Hispanic,White,Male,No
+1,9000076723,,,,Worker,Only one work location outside of home,Car,Yes,No,,Master's degree,,10.0587291396827,49,Not Hispanic,White,Female,No
+2,9000076723,,Not Selected,Selected,Not worker,,,No,,,Bachelor's degree,,,92,Not Hispanic,White,Male,No
+3,9000076723,,,,,,,,,,,,,12,Hispanic,White,Male,Yes
+1,9000077274,0,,,Not worker,,,Yes,,,Bachelor's degree,,,64,Not Hispanic,Asian,Male,No
+2,9000077274,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,56,Not Hispanic,Asian,Female,No
+1,9000077545,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,"Some college, no degree/ some trade school",,14.3826047953024,27,Not Hispanic,White,Male,No
+2,9000077545,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,"Some high school, no diploma/GED",,0.241523403393642,25,Not Hispanic,White,Male,No
+3,9000077545,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"High school graduate, have diploma/GED",,12.1797403308748,25,Not Hispanic,White,Female,No
+1,9000086512,,Not Selected,Selected,Not worker,,,No,,,"Some college, no degree/ some trade school",,,72,Not Hispanic,White,Female,No
+1,9000086617,,,,Worker,Only one work location outside of home,Subway or elevated rail,No,No,,Bachelor's degree,,2.13913369277777,36,Not Hispanic,White,Male,No
+1,9000087504,,,,Not worker,,,Yes,,,Master's degree,,,68,Not Hispanic,White,Male,No
+2,9000087504,,,,Not worker,,,Yes,,,Master's degree,,,67,Not Hispanic,White,Female,No
+1,9000087728,4,,,Not worker,,,Yes,,,Bachelor's degree,,,62,Not Hispanic,White,Male,No
+2,9000087728,4,,,Not worker,,,Yes,,,Bachelor's degree,,,61,Not Hispanic,White,Female,No
+1,9000087776,,,,Worker,Only one work location outside of home,Car,Yes,Yes,Use both household and non-household vehicle,Professional/Doctorate degree,,6.32736756338748,56,Not Hispanic,White,Female,No
+2,9000087776,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Professional/Doctorate degree,,6.32736756338748,56,Not Hispanic,White,Male,No
+3,9000087776,,,,Not worker,,,Yes,,,Master's degree,,,25,Not Hispanic,White,Female,Yes
+1,9000087988,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,No,,Bachelor's degree,,12.5336230611526,32,Not Hispanic,White,Female,No
+2,9000087988,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,14.8174810697425,35,Not Hispanic,White,Male,No
+3,9000087988,,,,,,,,,,,,,10,Not Hispanic,White,Male,Yes
+4,9000087988,,,,,,,,,,,,,9,Not Hispanic,White,Male,Yes
+1,9000088497,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,No,,Bachelor's degree,,,51,Not Hispanic,White,Female,No
+2,9000088497,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,"High school graduate, have diploma/GED",,,25,Not Hispanic,Multiple races selected,Male,No
+3,9000088497,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,9.94856286723463,20,Not Hispanic,Multiple races selected,Female,No
+1,9000088586,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Professional/Doctorate degree,,30.0700918005437,53,Not Hispanic,White,Female,No
+2,9000088586,,,,Worker,Only one work location outside of home,Car,Yes,No,,Master's degree,,18.6009546465764,50,Not Hispanic,White,Male,No
+1,9000088617,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,0.0,54,Not Hispanic,White,Male,No
+2,9000088617,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"Yes, use a household vehicle",Master's degree,,,47,Not Hispanic,White,Female,No
+1,9000089250,,,,Worker,Only one work location outside of home,Van,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,3.03000503582417,61,Not Hispanic,White,Male,No
+2,9000089250,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"High school graduate, have diploma/GED",,3.03000503582417,56,Not Hispanic,White,Female,No
+3,9000089250,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"High school graduate, have diploma/GED",,23.0217424614036,37,Not Hispanic,White,Female,No
+1,9000089269,,,,Worker,Only one work location outside of home,Car,Yes,No,,Master's degree,,27.741282153031,40,Not Hispanic,White,Male,No
+2,9000089269,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,2.62380811095731,41,Not Hispanic,White,Female,No
+3,9000089269,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,78,Not Hispanic,White,Female,No
+1,9000089488,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Master's degree,,15.6363128944095,38,Not Hispanic,White,Female,No
+2,9000089488,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Master's degree,,13.1341370375624,36,Not Hispanic,White,Male,No
+1,9000089612,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,75,Not Hispanic,White,Female,No
+1,9000089644,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,9.25983320053682,46,Not Hispanic,Black or African American,Female,No
+1,9000089940,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,10.957359111934,57,Not Hispanic,White,Female,No
+1,9000096667,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,No,,Master's degree,,,49,Not Hispanic,Black or African American,Male,No
+2,9000096667,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,No,,"High school graduate, have diploma/GED",,,35,Not Hispanic,Black or African American,Female,No
+3,9000096667,,,,,,,,,,Less than high school,,,14,Not Hispanic,Black or African American,Male,Yes
+4,9000096667,,,,,,,,,,,,,10,Not Hispanic,Black or African American,Female,Yes
+5,9000096667,,,,,,,,,,,,,6,Not Hispanic,Black or African American,Male,Yes
+1,9000096796,,Not Selected,Not Selected,Not worker,,,Yes,,,Master's degree,,,80,Not Hispanic,White,Male,No
+2,9000096796,,,,Not worker,,,Yes,,,Master's degree,,,65,Not Hispanic,White,Female,No
+3,9000096796,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,33,Not Hispanic,White,Male,No
+4,9000096796,10,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Master's degree,,3.9414740358362,59,Not Hispanic,White,Female,No
+1,9000096993,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,5.61635584647e-05,44,Not Hispanic,White,Male,No
+2,9000096993,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,5.61635584647e-05,40,Not Hispanic,White,Female,No
+3,9000096993,,,,,,,,,,,,,9,Not Hispanic,White,Male,Yes
+4,9000096993,,,,,,,,,,,,,6,Not Hispanic,White,Male,Yes
+1,9000097459,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,5.9907581643706,63,Not Hispanic,White,Female,No
+2,9000097459,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,4.72749089346166,71,Not Hispanic,White,Male,No
+1,9000097889,3,,,Not worker,,,Yes,,,Master's degree,,,49,Not Hispanic,White,Female,No
+2,9000097889,,,,Not worker,,,Yes,,,Bachelor's degree,,,50,Not Hispanic,White,Male,No
+3,9000097889,,,,Not worker,,,Yes,,,Less than high school,,,16,Not Hispanic,White,Male,Yes
+4,9000097889,,,,,,,No,,,"Some high school, no diploma/GED",,,15,Not Hispanic,White,Female,Yes
+1,9000098265,1,,,Worker,Only one work location outside of home,Car,Yes,No,,Master's degree,,8.34745277224795,35,Not Hispanic,White,Male,No
+2,9000098265,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,3.08637227202513,39,Not Hispanic,White,Female,No
+3,9000098265,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+1,9000098452,,,,Worker,Only one work location outside of home,Car,No,No,,"High school graduate, have diploma/GED",,5.29993200014515,28,Hispanic,White,Female,No
+2,9000098452,,,,Worker,Only one work location outside of home,Car,Yes,No,,Less than high school,,5.29993200014515,30,Hispanic,White,Male,No
+3,9000098452,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Less than high school,,5.29993200014515,29,Hispanic,White,Male,No
+4,9000098452,,,,,,,,,,,,,8,Hispanic,White,Female,Yes
+5,9000098452,,,,,,,,,,,,,6,Hispanic,White,Male,No
+1,9000098627,,,,Not worker,,,Yes,,,Bachelor's degree,,,79,Not Hispanic,White,Female,No
+1,9000099026,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,25.6599799520592,36,Not Hispanic,Black or African American,Female,No
+2,9000099026,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,Use both household and non-household vehicle,"High school graduate, have diploma/GED",,21.4644314448599,36,Not Hispanic,Black or African American,Male,No
+3,9000099026,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,24.3724264191176,17,Not Hispanic,Black or African American,Female,No
+4,9000099026,,,,,,,,,,,,,12,Not Hispanic,Black or African American,Male,Yes
+1,9000104879,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,60,Not Hispanic,White,Female,No
+2,9000104879,,,,Worker,"Drive/travel for work (driver, sales)",SUV/Crossover,Yes,Yes,"No, use non-household vehicle","High school graduate, have diploma/GED",,,62,Not Hispanic,White,Male,No
+1,9000105419,,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,7.46000590590234,25,Not Hispanic,White,Female,No
+1,9000105433,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,78,Not Hispanic,White,Female,No
+1,9000105449,10,,,Worker,Only one work location outside of home,"Bicycle (including bikeshare, ebike, etc.)",Yes,No,,Bachelor's degree,,0.934372687880981,62,Not Hispanic,White,Male,No
+2,9000105449,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,10.6880834717973,60,Not Hispanic,Asian,Female,No
+3,9000105449,,,,Worker,Only one work location outside of home,Other ride-sharing service,Yes,No,,"Some high school, no diploma/GED",,2.29040583723961,45,Not Hispanic,Asian,Male,No
+1,9000105555,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,14.1298469360718,41,Not Hispanic,White,Male,No
+2,9000105555,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,2.21407639232769,21,Not Hispanic,White,Female,No
+3,9000105555,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,16.0672262834004,40,Not Hispanic,White,Male,No
+4,9000105555,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,70,Not Hispanic,White,Female,No
+5,9000105555,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,No,,"Some college, no degree/ some trade school",,16.0672262834004,43,Not Hispanic,White,Male,No
+1,9000106214,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,No,,Bachelor's degree,,12.4978743472405,62,Not Hispanic,White,Male,No
+2,9000106214,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,62,Not Hispanic,White,Female,No
+1,9000106857,,,,Not worker,,,Yes,,,Bachelor's degree,,,73,Not Hispanic,White,Male,No
+1,9000106904,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,11.0206050015038,63,Not Hispanic,White,Female,No
+1,9000107180,,,,Not worker,,,Yes,,,Master's degree,,,53,Not Hispanic,White,Female,No
+2,9000107180,,,,Not worker,,,Yes,,,Bachelor's degree,,,56,Not Hispanic,White,Male,No
+3,9000107180,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,18,Not Hispanic,White,Female,Yes
+1,9000107847,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Associates degree (2-year)/ trade school certificate,,41.2699160799848,51,Not Hispanic,White,Male,No
+2,9000107847,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,No,,"High school graduate, have diploma/GED",,4.30641830069049,59,Not Hispanic,White,Female,No
+1,9000113631,,Not Selected,Not Selected,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,80,Not Hispanic,White,Female,No
+2,9000114396,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,2.94101535728965,36,Not Hispanic,White,Female,No
+3,9000114396,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Male,Yes
+4,9000114396,,,,,,,,,,,,,8,Not Hispanic,White,Female,Yes
+1,9000114455,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,Use both household and non-household vehicle,Bachelor's degree,,11.4850664611533,24,Not Hispanic,White,Male,No
+1,9000114543,5,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,No,,Master's degree,,4.89960491325497,37,Not Hispanic,White,Female,No
+2,9000114543,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,2.15065822331675,44,Not Hispanic,White,Male,No
+3,9000114543,,,,,,,,,,,,,13,Hispanic,White,Male,Yes
+4,9000114543,,,,,,,,,,,,,6,Not Hispanic,White,Male,Yes
+1,9000114675,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,58,Not Hispanic,White,Male,No
+2,9000114675,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,53,Not Hispanic,White,Female,No
+1,9000115191,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,34,Not Hispanic,White,Female,No
+2,9000115191,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+3,9000115191,,,,,,,,,,,,,5,Not Hispanic,White,Female,Yes
+1,9000115423,10,,,Worker,Work location regularly varies (different offices/job sites),"Bicycle (including bikeshare, ebike, etc.)",Yes,Yes,Use both household and non-household vehicle,Associates degree (2-year)/ trade school certificate,,1.63722320473859,70,Not Hispanic,Black or African American,Male,No
+2,9000115423,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Female,Yes
+1,9000124931,7,,,Not worker,,,Yes,,,Master's degree,,,65,Not Hispanic,White,Male,No
+1,9000126074,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,2.14368648808822,60,Not Hispanic,Black or African American,Female,No
+1,9000126873,,,,Worker,Work location regularly varies (different offices/job sites),Walked,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,4.21459174820876,61,Not Hispanic,American Indian/Alaska Native,Female,Yes
+2,9000126873,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle","Some college, no degree/ some trade school",,2.85830061123986,56,Not Hispanic,White,Male,No
+3,9000126873,,,,Worker,"Only work at home (telework, self-employed)",,No,,,Bachelor's degree,,,29,Not Hispanic,Black or African American,Female,No
+4,9000126873,,,,,,,,,,,,,7,Not Hispanic,American Indian/Alaska Native,Female,Yes
+1,9000127169,5,,,Worker,Work location regularly varies (different offices/job sites),Walked,Yes,No,,Bachelor's degree,,0.0,43,Not Hispanic,White,Male,No
+2,9000127169,2,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Bachelor's degree,,8.96058124093267,34,Not Hispanic,White,Female,No
+3,9000127169,,,,,,,,,,,,,12,Not Hispanic,White,Male,Yes
+4,9000127169,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+1,9000127191,,,,Not worker,,,Yes,,,Bachelor's degree,,,67,Not Hispanic,White,Male,No
+1,9000127584,20,Not Selected,Not Selected,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,84,Hispanic,White,Female,No
+2,9000127584,,,,Not worker,,,No,,,"Some high school, no diploma/GED",,,76,Hispanic,White,Male,No
+1,9000128096,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,57,Not Hispanic,Asian,Female,No
+1,9000128395,2,,,Worker,Only one work location outside of home,,Yes,No,,Bachelor's degree,,,30,Not Hispanic,White,Male,No
+2,9000128395,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,5.4402949755358,26,Not Hispanic,White,Female,No
+1,9000128507,,,,Not worker,,,Yes,,,Master's degree,,,66,Not Hispanic,White,Male,No
+2,9000128507,,,,Not worker,,,Yes,,,Bachelor's degree,,,66,Not Hispanic,White,Female,No
+1,9000145587,30,,,Worker,Only one work location outside of home,"Bicycle (including bikeshare, ebike, etc.)",No,No,,"Some college, no degree/ some trade school",,0.992215767222323,19,Not Hispanic,White,Male,Yes
+2,9000145587,4,,,Worker,Only one work location outside of home,Walked,No,,,"Some college, no degree/ some trade school",,0.656855777147852,20,Not Hispanic,Black or African American,Male,No
+3,9000145587,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,21,Hispanic,White,Male,Yes
+1,9000145752,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,"Some college, no degree/ some trade school",,25.9758897177426,44,Not Hispanic,White,Male,No
+2,9000145752,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,"Some high school, no diploma/GED",,,41,Not Hispanic,White,Female,No
+3,9000145752,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Female,Yes
+4,9000145752,,,,,,,,,,,,,13,Not Hispanic,White,Male,Yes
+5,9000145752,,,,,,,,,,,,,9,Not Hispanic,White,Female,Yes
+1,9000146400,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Professional/Doctorate degree,,9.35115263253824,36,Not Hispanic,White,Female,No
+1,9000146462,,,,Not worker,,,Yes,,,Bachelor's degree,,,45,Not Hispanic,White,Female,No
+2,9000146462,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,40,Not Hispanic,White,Female,No
+3,9000146462,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,24,Not Hispanic,White,Female,No
+4,9000146462,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,22,Not Hispanic,White,Male,No
+1,9000146886,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,19.0419221470742,35,Not Hispanic,White,Female,Yes
+2,9000146886,,,,,,,No,,,Less than high school,,,15,Not Hispanic,White,Male,Yes
+3,9000146886,,,,,,,,,,,,,9,Hispanic,White,Male,Yes
+1,9000147231,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,71,Not Hispanic,White,Female,No
+2,9000147231,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,65,Not Hispanic,White,Female,No
+1,9000147597,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,32,Not Hispanic,White,Female,No
+2,9000147597,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,36,Not Hispanic,White,Male,No
+3,9000147597,,,,Not worker,,,Yes,,,Bachelor's degree,,,69,Not Hispanic,White,Male,No
+4,9000147597,,,,Not worker,,,No,,,"Some college, no degree/ some trade school",,,63,Not Hispanic,White,Female,No
+1,9000148365,,,,Worker,"Only work at home (telework, self-employed)",,Yes,Yes,Use both household and non-household vehicle,Professional/Doctorate degree,,,65,Not Hispanic,Asian,Female,No
+2,9000148365,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,1.17814334541811,51,Not Hispanic,White,Female,No
+1,9000148426,,,,Not worker,,,Yes,,,Bachelor's degree,,,68,Not Hispanic,White,Male,No
+2,9000148426,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,74,Not Hispanic,White,Female,No
+1,9000148814,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,73,Not Hispanic,White,Female,No
+1,9000148867,,,,Not worker,,,Yes,,,Bachelor's degree,,,79,Not Hispanic,White,Male,No
+1,9000149320,,Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,67,Not Hispanic,White,Female,No
+2,9000149320,,,,Not worker,,,Yes,,,Master's degree,,,75,Not Hispanic,White,Male,No
+3,9000149320,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,41,Not Hispanic,White,Male,No
+4,9000149320,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,40,Not Hispanic,White,Female,No
+1,9000162501,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,76,Not Hispanic,White,Male,No
+2,9000162501,,Not Selected,Not Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,50,Hispanic,White,Female,No
+3,9000162501,,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,Yes,Use both household and non-household vehicle,Less than high school,,4.16733545088993,51,Hispanic,American Indian/Alaska Native,Male,No
+4,9000162501,,,,,,,,,,"Some high school, no diploma/GED",,,14,Hispanic,White,Female,Yes
+2,9000162578,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,42,Not Hispanic,White,Female,No
+3,9000162578,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Female,Yes
+4,9000162578,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+1,9000163163,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,67,Not Hispanic,White,Female,No
+2,9000163163,,,,Not worker,,,Yes,,,Master's degree,,,78,Not Hispanic,White,Female,No
+1,9000163256,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Associates degree (2-year)/ trade school certificate,,1.72602759577977,49,Not Hispanic,White,Female,No
+1,9000163372,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,34,Hispanic,White,Male,No
+2,9000163372,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,34,Not Hispanic,White,Female,No
+1,9000163789,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,59,Hispanic,Black or African American,Female,No
+2,9000163789,,,,,,,,,,Less than high school,,,14,Hispanic,Black or African American,Female,Yes
+1,9000164148,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,No,,Master's degree,,5.68190787228047,47,Not Hispanic,White,Female,No
+2,9000164148,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,No,,Bachelor's degree,,11.3179657248128,49,Not Hispanic,White,Male,No
+3,9000164148,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"Some college, no degree/ some trade school",,313.147820290257,20,Not Hispanic,White,Male,Yes
+4,9000164148,,,,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,17,Not Hispanic,White,Male,Yes
+5,9000164148,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Female,Yes
+1,9000164498,,,,Worker,"Drive/travel for work (driver, sales)",SUV/Crossover,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,,23,Not Hispanic,White,Female,Yes
+1,9000164983,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,Use both household and non-household vehicle,Bachelor's degree,,3.12606260266193,72,Not Hispanic,White,Male,No
+2,9000164983,,Not Selected,Not Selected,Not worker,,,Yes,,,Bachelor's degree,,,70,Not Hispanic,White,Female,No
+1,9000165233,,,,Worker,Work location regularly varies (different offices/job sites),Pickup truck,Yes,Yes,"No, use non-household vehicle","Some college, no degree/ some trade school",,0.111407016960689,44,Not Hispanic,White,Male,No
+2,9000165233,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,Yes,"Yes, use a household vehicle","High school graduate, have diploma/GED",,14.6572836512799,19,Not Hispanic,White,Female,No
+3,9000165233,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,16.8380176521137,19,Not Hispanic,White,Female,No
+4,9000165233,,,,,,,,,,,,,12,Not Hispanic,White,Male,Yes
+1,9000165687,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"Some college, no degree/ some trade school",,12.5490747386164,32,Not Hispanic,Black or African American,Male,No
+2,9000165687,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Associates degree (2-year)/ trade school certificate,,12.2142584003969,33,Not Hispanic,Black or African American,Female,No
+3,9000165687,,,,,,,No,,,"Some high school, no diploma/GED",,,15,Not Hispanic,Black or African American,Male,Yes
+4,9000165687,,,,,,,,,,,,,8,Not Hispanic,Black or African American,Male,Yes
+1,9000165767,1,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,54,Not Hispanic,Asian,Male,No
+2,9000165767,,,,Worker,Work location regularly varies (different offices/job sites),Airplane,Yes,No,,Master's degree,,120.935889719465,49,Not Hispanic,White,Female,No
+1,9000166291,2,,,Not worker,,,Yes,,,Bachelor's degree,,,55,Not Hispanic,White,Male,No
+2,9000166291,1,,,Worker,Work location regularly varies (different offices/job sites),Car,Yes,No,,Bachelor's degree,,0.0,53,Not Hispanic,White,Female,No
+1,9000167066,,,,Not worker,,,Yes,,,Bachelor's degree,,,50,Not Hispanic,Black or African American,Male,No
+2,9000167066,,,,Worker,Work location regularly varies (different offices/job sites),Public or commuter bus,Yes,No,,Master's degree,No,5.44626894018453,47,Not Hispanic,White,Female,No
+3,9000167066,5,,,Not worker,,,No,,,Less than high school,,,17,Not Hispanic,White,Male,Yes
+4,9000167066,,Not Selected,Not Selected,Not worker,,,No,,,Less than high school,,,48,Not Hispanic,Black or African American,Female,No
+1,9000168394,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,70,Not Hispanic,White,Male,No
+2,9000168394,,,,Not worker,,,Yes,,,Bachelor's degree,,,69,Not Hispanic,White,Female,No
+1,9000169206,,,,Not worker,,,Yes,,,Bachelor's degree,,,46,Not Hispanic,Asian,Female,No
+2,9000169206,1,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"No, use non-household vehicle",Bachelor's degree,,,47,Not Hispanic,White,Male,No
+1,9000169307,,,,Not worker,,,Yes,,,Bachelor's degree,,,59,Not Hispanic,White,Male,No
+2,9000169307,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,54,Not Hispanic,White,Female,No
+3,9000169307,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,19,Not Hispanic,White,Female,Yes
+1,9000169533,,Not Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,53,Not Hispanic,White,Female,No
+2,9000169533,,Not Selected,Not Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,61,Not Hispanic,White,Male,No
+1,9000169604,,,,Not worker,,,Yes,,,Professional/Doctorate degree,,,79,Not Hispanic,Asian,Male,No
+2,9000169604,,,,Not worker,,,Yes,,,"Some high school, no diploma/GED",,,74,Not Hispanic,Asian,Female,No
+1,9000169705,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Bachelor's degree,,1.62277884760841,30,Not Hispanic,White,Male,Yes
+2,9000169705,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,"Some college, no degree/ some trade school",,1.45065131964784,26,Not Hispanic,White,Female,Yes
+1,9000169866,0,,,Worker,Only one work location outside of home,Car,Yes,No,,Professional/Doctorate degree,,0.876049655626016,73,Not Hispanic,White,Male,No
+1,9000170296,,,,Worker,Only one work location outside of home,Other ride-sharing service,No,No,,Bachelor's degree,,2.11631275741831,44,Not Hispanic,Black or African American,Female,Yes
+1,9000170823,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Master's degree,,4.3353752846065,35,Hispanic,White,Female,No
+2,9000170823,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,5.34833235909373,36,Hispanic,Other race,Male,Yes
+1,9000171367,,,,Worker,Only one work location outside of home,Car,Yes,,,"High school graduate, have diploma/GED",,16.3869682596507,40,Hispanic,White,Female,No
+1,9000171601,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Associates degree (2-year)/ trade school certificate,,6.42053565207504,20,Not Hispanic,White,Female,No
+2,9000171601,,,,Worker,"Drive/travel for work (driver, sales)",Pickup truck,Yes,Yes,Use both household and non-household vehicle,Associates degree (2-year)/ trade school certificate,,,24,Not Hispanic,White,Male,No
+1,9000172096,5,,,Not worker,,,Yes,,,Master's degree,,,60,Not Hispanic,Asian,Male,No
+2,9000172096,,,,Not worker,,,Yes,,,Bachelor's degree,,,58,Not Hispanic,Asian,Female,No
+3,9000172096,,,,Not worker,,,Yes,,,Bachelor's degree,,,30,Not Hispanic,Asian,Male,No
+1,9000172438,,Not Selected,Not Selected,Not worker,,,Yes,,,Bachelor's degree,,,53,Hispanic,White,Male,No
+2,9000172438,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,42,Not Hispanic,White,Female,No
+3,9000172438,,,,,,,,,,,,,8,Hispanic,White,Male,Yes
+1,9000172658,,,,Not worker,,,Yes,,,Master's degree,,,79,Not Hispanic,White,Male,No
+2,9000172658,18,,,Worker,Only one work location outside of home,"Bicycle (including bikeshare, ebike, etc.)",No,,,Associates degree (2-year)/ trade school certificate,,6.29538972759285,42,Not Hispanic,White,Male,No
+1,9000173653,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,8.85717018531064,51,Not Hispanic,White,Female,No
+2,9000173653,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Master's degree,,5.31965127435873,53,Not Hispanic,White,Male,No
+1,9000173901,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,74,Not Hispanic,White,Male,No
+2,9000173901,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,71,Not Hispanic,White,Female,No
+1,9000208717,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,12.3074570418446,68,Not Hispanic,White,Male,No
+2,9000208717,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,9.48405763957181,52,Not Hispanic,White,Female,No
+1,9000209091,,,,Worker,Only one work location outside of home,Car,Yes,Yes,"Yes, use a household vehicle",Professional/Doctorate degree,,12.8847630438959,33,Not Hispanic,Asian,Male,No
+2,9000209091,,,,Worker,Only one work location outside of home,Car,Yes,No,,Professional/Doctorate degree,,12.9081807880363,34,Not Hispanic,Asian,Male,No
+1,9000209254,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,"High school graduate, have diploma/GED",,2.85063468034394,25,Hispanic,White,Female,No
+2,9000209254,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,2.63892210753375,25,Not Hispanic,White,Male,No
+4,9000209254,,,,,,,,,,,,,5,Hispanic,White,Male,Yes
+1,9000209801,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,6.03319490989623,71,Not Hispanic,White,Female,No
+1,9000210280,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Bachelor's degree,,6.58748047146588,66,Not Hispanic,White,Female,No
+1,9000211092,,,,Worker,Only one work location outside of home,Car,Yes,No,,"High school graduate, have diploma/GED",,13.6466200132122,61,Not Hispanic,Black or African American,Female,No
+1,9000211615,,,,Worker,Only one work location outside of home,Commuter rail,Yes,No,,Bachelor's degree,,23.2259196126414,62,Not Hispanic,White,Male,No
+2,9000211615,,,,Worker,Only one work location outside of home,Pickup truck,Yes,No,,Bachelor's degree,,9.02264663822132,22,Not Hispanic,White,Female,No
+1,9000211664,,Not Selected,Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,35,Not Hispanic,White,Female,No
+2,9000211664,,,,,,,,,,,,,5,Not Hispanic,White,Female,Yes
+1,9000211898,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,,44,Not Hispanic,White,Female,
+2,9000211898,,Not Selected,Not Selected,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,60,Not Hispanic,White,Male,No
+3,9000211898,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some high school, no diploma/GED",,10.181256070308,18,Not Hispanic,White,Female,Yes
+4,9000211898,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Female,Yes
+1,9000211982,,,,Not worker,,,Yes,,,Bachelor's degree,,,76,Not Hispanic,White,Male,No
+2,9000211982,,,,Not worker,,,Yes,,,Bachelor's degree,,,73,Not Hispanic,White,Female,No
+1,9000212632,,,,Worker,Only one work location outside of home,Pickup truck,Yes,Yes,Use both household and non-household vehicle,"Some college, no degree/ some trade school",,0.994328836484389,59,Hispanic,American Indian/Alaska Native,Female,No
+2,9000212632,,Selected,Not Selected,Worker,Only one work location outside of home,Pickup truck,Yes,Yes,Use both household and non-household vehicle,"High school graduate, have diploma/GED",,6.88760623478651,40,Not Hispanic,American Indian/Alaska Native,Male,No
+3,9000212632,,,,Worker,Only one work location outside of home,Car,No,,,"High school graduate, have diploma/GED",,7.87246648085032,32,Not Hispanic,American Indian/Alaska Native,Female,No
+1,9000212900,,Not Selected,Not Selected,Not worker,,,No,,,Associates degree (2-year)/ trade school certificate,,,72,Not Hispanic,White,Female,No
+1,9000212920,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some college, no degree/ some trade school",,17.8031720872446,62,Not Hispanic,White,Female,No
+1,9000213115,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,65,Not Hispanic,White,Male,No
+2,9000213115,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,63,Not Hispanic,White,Female,No
+1,9000213245,,,,Worker,Only one work location outside of home,Subway or elevated rail,No,No,,Bachelor's degree,,3.85555440067651,45,Not Hispanic,White,Male,No
+1,9000213285,,,,Worker,Only one work location outside of home,Car,Yes,No,,Associates degree (2-year)/ trade school certificate,,37.3998991234086,18,Not Hispanic,White,Female,No
+2,9000213285,,,,,,,No,,,"Some high school, no diploma/GED",,,15,Not Hispanic,White,Female,Yes
+3,9000213285,,,,,,,,,,,,,8,Not Hispanic,White,Male,Yes
+1,9000213313,,,,Not worker,,,Yes,,,Master's degree,,,78,Not Hispanic,Black or African American,Female,No
+1,9000213343,,,,Not worker,,,Yes,,,Master's degree,,,64,Not Hispanic,White,Male,No
+2,9000213343,,,,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,64,Not Hispanic,White,Female,No
+1,9000213691,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,79,Not Hispanic,White,Female,No
+2,9000213691,,,,Worker,Only one work location outside of home,SUV/Crossover,Yes,No,,Associates degree (2-year)/ trade school certificate,,1.63032750414032,53,Not Hispanic,White,Male,No
+1,9000214670,,Not Selected,Not Selected,Not worker,,,Yes,,,"Some college, no degree/ some trade school",,,74,Not Hispanic,White,Male,No
+1,9000214795,,,,Worker,"Only work at home (telework, self-employed)",,Yes,Yes,"Yes, use a household vehicle",Bachelor's degree,,,53,Not Hispanic,White,Female,No
+2,9000214795,,,,Worker,"Drive/travel for work (driver, sales)",Car,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,,55,Not Hispanic,White,Male,No
+1,9000215357,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Master's degree,,,44,Not Hispanic,White,Female,No
+2,9000215357,,,,Worker,Work location regularly varies (different offices/job sites),SUV/Crossover,Yes,Yes,"Yes, use a household vehicle",Associates degree (2-year)/ trade school certificate,,1.11084375155612,45,Not Hispanic,White,Male,No
+3,9000215357,,,,Worker,Only one work location outside of home,Car,Yes,No,,"Some high school, no diploma/GED",,1.38610530870142,17,Not Hispanic,White,Female,Yes
+4,9000215357,,,,,,,,,,Less than high school,,,14,Not Hispanic,White,Male,Yes
+5,9000215357,,,,,,,,,,,,,9,Not Hispanic,White,Female,Yes
+1,9000217124,,,,Worker,Only one work location outside of home,Car,Yes,No,,Bachelor's degree,,10.5228930135629,35,Not Hispanic,White,Male,No
+2,9000217124,,,,Worker,"Only work at home (telework, self-employed)",,Yes,No,,Bachelor's degree,,,35,Not Hispanic,White,Female,No
+1,9000217153,,,,Not worker,,,Yes,,,Associates degree (2-year)/ trade school certificate,,,71,Not Hispanic,White,Male,No
+2,9000217153,,,,Not worker,,,Yes,,,"High school graduate, have diploma/GED",,,66,Not Hispanic,White,Female,No
+1,9000217682,,,,Not worker,,,Yes,,,Bachelor's degree,,,75,Not Hispanic,White,Male,No
+2,9000217682,,,,Not worker,,,Yes,,,Bachelor's degree,,,71,Not Hispanic,White,Female,No
+3,9000217682,,Not Selected,Selected,Not worker,,,No,,,"Some high school, no diploma/GED",,,92,Not Hispanic,White,Female,No
+1,9000217741,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,Use both household and non-household vehicle,"High school graduate, have diploma/GED",,2.28588187212834,18,Hispanic,American Indian/Alaska Native,Male,No
+2,9000217741,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,"Yes, use a household vehicle",Less than high school,,2.28588187212834,40,Hispanic,American Indian/Alaska Native,Male,No
+3,9000217741,,,,,,,,,,Less than high school,,,14,Hispanic,American Indian/Alaska Native,Male,Yes
+4,9000217741,,,,Worker,Work location regularly varies (different offices/job sites),Van,Yes,Yes,"Yes, use a household vehicle",Less than high school,,2.28588187212834,42,Hispanic,American Indian/Alaska Native,Female,No
+5,9000217741,,,,,,,,,,,,,9,Hispanic,American Indian/Alaska Native,Female,Yes

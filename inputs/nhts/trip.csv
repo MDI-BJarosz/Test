@@ -1,0 +1,803 @@
+trip_id,seq_trip_id,household_id,person_id,vehicle_id,vehicle_case_id,is_driver,dwell_time_min,num_passengers,origin_density,dest_density,travel_time_min,trip_distance_mi,start_time,trip_mode,trip_purpose
+1,1,9000013761,1,1,900001376101,Driver on trip,55,1,"2,000-3,999",500-999,20,6.08017402113114,900,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000013761,1,1,900001376101,Driver on trip,,1,"1,000-1,999","2,000-3,999",25,6.11124922311995,1015,Privately Owned Vehicle-Driver,Home
+1,1,9000013987,1,1,900001398701,Driver on trip,1,1,0-99,0-99,20,6.64947172156619,1830,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000013987,1,1,900001398701,Driver on trip,,1,0-99,0-99,20,6.64947172156619,1851,Privately Owned Vehicle-Driver,Home
+1,1,9000014608,1,1,900001460801,Driver on trip,120,1,"4,000-9,999",500-999,30,15.733374766936,930,Privately Owned Vehicle-Driver,Work
+2,2,9000014608,1,1,900001460801,Driver on trip,,1,0-99,"2,000-3,999",30,15.7874456183965,1200,Privately Owned Vehicle-Driver,Home
+1,1,9000014608,2,3,900001460803,Driver on trip,700,1,"4,000-9,999",100-499,20,13.4282162834058,800,Privately Owned Vehicle-Driver,Work
+2,2,9000014608,2,3,900001460803,Driver on trip,,1,100-499,"2,000-3,999",20,12.7576134244873,2000,Privately Owned Vehicle-Driver,Home
+1,1,9000014608,3,,,,430,1,"4,000-9,999","1,000-1,999",15,0.979490366687383,745,Walk,School/Daycare/Religious
+2,2,9000014608,3,,,,,1,"1,000-1,999","2,000-3,999",20,0.801118707271597,1510,Walk,Home
+1,1,9000015362,1,2,900001536202,Not driver on trip,105,2,"4,000-9,999",,30,16.5463020509633,845,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000015362,1,,,,20,2,,0-99,220,1258.27881788375,1100,Other,Social/Recreational
+3,3,9000015362,1,1,900001536201,Not driver on trip,,2,0-99,100-499,75,64.1261653200746,1500,Privately Owned Vehicle-Passenger,Home
+1,1,9000015362,2,2,900001536202,Not driver on trip,105,2,"4,000-9,999",,30,16.5463020509633,845,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000015362,2,,,,20,2,,0-99,220,1258.27881788375,1100,Other,Social/Recreational
+3,3,9000015362,2,1,900001536201,Driver on trip,,2,0-99,100-499,75,64.1261653200746,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000015676,1,,,,,2,100-499,100-499,60,4.0,1030,Walk,Social/Recreational
+1,1,9000015676,2,,,,,2,100-499,100-499,60,4.0,1030,Walk,Social/Recreational
+1,1,9000017013,1,2,900001701302,Driver on trip,550,1,100-499,100-499,10,6.1255438160348,740,Privately Owned Vehicle-Driver,Work
+2,2,9000017013,1,2,900001701302,Driver on trip,215,1,0-99,0-99,25,14.8004972032318,1700,Privately Owned Vehicle-Driver,Home
+3,3,9000017013,1,2,900001701302,Driver on trip,,1,0-99,100-499,25,9.33623368551896,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000017491,1,1,900001749101,Driver on trip,265,1,100-499,"2,000-3,999",20,9.71037911746426,1245,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000017491,1,1,900001749101,Driver on trip,2,1,"2,000-3,999","1,000-1,999",25,8.21379738968303,1730,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000017491,1,1,900001749101,Driver on trip,14,1,"2,000-3,999","1,000-1,999",4,0.146053449347421,1757,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000017491,1,1,900001749101,Driver on trip,12,1,"4,000-9,999","1,000-1,999",3,0.102548166563083,1815,Privately Owned Vehicle-Driver,Meals
+5,5,9000017491,1,1,900001749101,Driver on trip,,1,"4,000-9,999","1,000-1,999",12,1.06401491609695,1830,Privately Owned Vehicle-Driver,Home
+1,1,9000017779,1,1,900001777901,Driver on trip,110,1,500-999,100-499,85,85.5755127408328,915,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000017779,1,1,900001777901,Driver on trip,,1,100-499,0-99,120,85.5730267246737,1230,Privately Owned Vehicle-Driver,Home
+1,1,9000017855,1,1,900001785501,Driver on trip,70,1,100-499,"2,000-3,999",20,8.01243008079553,1600,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000017855,1,1,900001785501,Driver on trip,,1,"2,000-3,999",100-499,30,7.89496581727781,1730,Privately Owned Vehicle-Driver,Home
+1,1,9000018932,2,2,900001893202,Driver on trip,150,1,"1,000-1,999",500-999,90,52.7395898073338,800,Privately Owned Vehicle-Driver,Something else
+2,2,9000018932,2,2,900001893202,Driver on trip,,1,100-499,"2,000-3,999",90,52.9024238657551,1200,Privately Owned Vehicle-Driver,Transport someone
+1,1,9000019163,1,2,900001916302,Driver on trip,120,1,"1,000-1,999",500-999,15,3.40957116221255,845,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000019163,1,2,900001916302,Driver on trip,,1,"1,000-1,999","1,000-1,999",15,3.28837787445618,1100,Privately Owned Vehicle-Driver,Home
+1,1,9000045802,1,,,,195,1,"4,000-9,999","10,000-24,999",35,5.51522684897452,1945,Bike,Social/Recreational
+2,2,9000045802,1,,,,,1,"10,000-24,999","4,000-9,999",85,6.05655686761964,2335,Bike,Home
+1,1,9000045802,2,,,,230,2,"4,000-9,999","4,000-9,999",10,0.205717837165941,1000,Walk,Work
+2,2,9000045802,2,,,,,1,"4,000-9,999","4,000-9,999",10,0.222498446239901,1400,Walk,Home
+1,1,9000046280,1,1,900004628001,Driver on trip,90,4,0-99,100-499,30,17.5313859540087,830,Privately Owned Vehicle-Driver,Meals
+2,2,9000046280,1,1,900004628001,Driver on trip,30,4,100-499,100-499,30,4.23803604723431,1030,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000046280,1,1,900004628001,Driver on trip,60,4,100-499,100-499,30,19.8781852082039,1130,Privately Owned Vehicle-Driver,Transport someone
+4,4,9000046280,1,1,900004628001,Driver on trip,,1,0-99,"2,000-3,999",510,504.975139838409,1300,Privately Owned Vehicle-Driver,Home
+1,1,9000046280,2,2,900004628002,Driver on trip,45,1,"1,000-1,999",500-999,30,7.06836544437539,1330,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000046280,2,2,900004628002,Driver on trip,,1,500-999,"2,000-3,999",30,7.05531385954009,1445,Privately Owned Vehicle-Driver,Home
+1,1,9000046832,4,1,900004683201,Driver on trip,550,1,"2,000-3,999","2,000-3,999",20,3.18458669981355,730,Privately Owned Vehicle-Driver,Work
+2,2,9000046832,4,1,900004683201,Driver on trip,,1,100-499,"2,000-3,999",20,2.97265382224984,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000047615,1,1,900004761501,Driver on trip,220,1,100-499,100-499,20,12.5425730267247,830,Privately Owned Vehicle-Driver,Work
+2,2,9000047615,1,1,900004761501,Driver on trip,175,1,100-499,"1,000-1,999",50,30.72218769422,1230,Privately Owned Vehicle-Driver,Work
+3,3,9000047615,1,1,900004761501,Driver on trip,,1,"1,000-1,999",100-499,60,31.758234928527,1615,Privately Owned Vehicle-Driver,Home
+1,1,9000047615,3,2,900004761502,Not driver on trip,600,2,100-499,500-999,15,3.0,715,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000047615,3,2,900004761502,Not driver on trip,,2,100-499,100-499,10,2.59975139838409,1730,Privately Owned Vehicle-Passenger,Home
+1,1,9000047615,4,2,900004761502,Not driver on trip,620,2,100-499,500-999,10,3.0,600,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000047615,4,1,900004761501,Not driver on trip,,2,100-499,100-499,10,2.59975139838409,1630,Privately Owned Vehicle-Passenger,Home
+1,1,9000048058,1,2,900004805802,Driver on trip,55,1,"1,000-1,999",500-999,5,3.06463642013673,1400,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000048058,1,2,900004805802,Driver on trip,,1,500-999,"1,000-1,999",5,3.06587942821628,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000048058,2,1,900004805801,Driver on trip,55,2,"1,000-1,999",500-999,5,1.95338719701678,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000048058,2,1,900004805801,Driver on trip,,2,100-499,"1,000-1,999",5,2.01491609695463,1200,Privately Owned Vehicle-Driver,Home
+1,1,9000048058,3,1,900004805801,Not driver on trip,55,2,"1,000-1,999",500-999,5,1.95338719701678,1100,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000048058,3,1,900004805801,Not driver on trip,,2,100-499,"1,000-1,999",5,2.01491609695463,1200,Privately Owned Vehicle-Passenger,Home
+1,1,9000049458,1,1,900004945801,Driver on trip,20,1,100-499,0-99,10,2.31448104412679,1450,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000049458,1,1,900004945801,Driver on trip,5,1,100-499,500-999,10,2.86948415164699,1520,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000049458,1,1,900004945801,Driver on trip,35,1,500-999,100-499,10,3.25730267246737,1535,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000049458,1,1,900004945801,Driver on trip,270,1,500-999,100-499,10,1.84711000621504,1620,Privately Owned Vehicle-Driver,Home
+5,5,9000049458,1,1,900004945801,Driver on trip,5,1,100-499,500-999,10,4.6780609073959,2100,Privately Owned Vehicle-Driver,Meals
+6,6,9000049458,1,1,900004945801,Driver on trip,,1,500-999,100-499,10,3.32815413300186,2115,Privately Owned Vehicle-Driver,Home
+1,1,9000049458,2,1,900004945801,Driver on trip,185,1,100-499,100-499,10,0.658172778123058,745,Privately Owned Vehicle-Driver,Work
+2,2,9000049458,2,1,900004945801,Driver on trip,460,1,100-499,100-499,10,0.658172778123058,1100,Privately Owned Vehicle-Driver,Home
+3,3,9000049458,2,1,900004945801,Driver on trip,120,2,100-499,100-499,10,0.936606587942822,1850,Privately Owned Vehicle-Driver,School/Daycare/Religious
+4,4,9000049458,2,1,900004945801,Driver on trip,,2,100-499,100-499,10,0.936606587942822,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000049458,3,3,900004945803,Driver on trip,210,1,100-499,0-99,60,50.6606587942822,1730,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000049458,3,3,900004945803,Driver on trip,,1,0-99,100-499,60,49.1404599129894,2200,Privately Owned Vehicle-Driver,Home
+1,1,9000049458,4,2,900004945802,Driver on trip,515,1,100-499,100-499,5,0.658172778123058,750,Privately Owned Vehicle-Driver,Work
+2,2,9000049458,4,2,900004945802,Driver on trip,85,1,100-499,100-499,5,0.658172778123058,1630,Privately Owned Vehicle-Driver,Home
+3,3,9000049458,4,2,900004945802,Driver on trip,175,1,100-499,100-499,5,0.936606587942822,1800,Privately Owned Vehicle-Driver,School/Daycare/Religious
+4,4,9000049458,4,2,900004945802,Driver on trip,,1,100-499,100-499,5,0.936606587942822,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000049458,5,1,900004945801,Not driver on trip,120,2,100-499,100-499,10,0.936606587942822,1850,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000049458,5,1,900004945801,Not driver on trip,,2,100-499,100-499,10,0.936606587942822,2100,Privately Owned Vehicle-Passenger,Home
+1,1,9000049519,1,1,900004951901,Driver on trip,110,1,"1,000-1,999","2,000-3,999",10,1.35487880671224,800,Privately Owned Vehicle-Driver,Work
+2,2,9000049519,1,1,900004951901,Driver on trip,45,1,"2,000-3,999","2,000-3,999",15,2.54008701056557,1000,Privately Owned Vehicle-Driver,Work
+3,3,9000049519,1,1,900004951901,Driver on trip,15,1,"2,000-3,999","2,000-3,999",15,2.59540087010566,1100,Privately Owned Vehicle-Driver,Work
+4,4,9000049519,1,1,900004951901,Driver on trip,195,1,"1,000-1,999","2,000-3,999",15,2.63455562461156,1130,Privately Owned Vehicle-Driver,Work
+5,5,9000049519,1,1,900004951901,Driver on trip,210,1,"2,000-3,999","2,000-3,999",30,4.07271597265382,1500,Privately Owned Vehicle-Driver,Work
+6,6,9000049519,1,1,900004951901,Driver on trip,,1,"2,000-3,999","1,000-1,999",15,2.83157240522063,1900,Privately Owned Vehicle-Driver,Home
+1,1,9000051050,1,1,900005105001,Driver on trip,205,1,100-499,0-99,5,0.875077688004972,700,Privately Owned Vehicle-Driver,Work
+2,2,9000051050,1,1,900005105001,Driver on trip,120,1,100-499,100-499,30,17.4412678682411,1030,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000051050,1,1,900005105001,Driver on trip,,1,"1,000-1,999",0-99,30,18.5525170913611,1300,Privately Owned Vehicle-Driver,Home
+1,1,9000051050,2,7,900005105007,Not driver on trip,825,1,100-499,0-99,45,26.4232442510876,530,Privately Owned Vehicle-Passenger,Home
+2,2,9000051050,2,7,900005105007,Driver on trip,155,1,100-499,100-499,75,68.7022995649472,2000,Privately Owned Vehicle-Driver,Work
+3,3,9000051050,2,7,900005105007,Driver on trip,,1,100-499,0-99,85,68.8216283405842,2350,Privately Owned Vehicle-Driver,Home
+1,1,9000051050,3,4,900005105004,Driver on trip,165,1,100-499,100-499,15,2.50217526413922,1000,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000051050,3,4,900005105004,Driver on trip,,1,"1,000-1,999",100-499,15,2.57054070851461,1300,Privately Owned Vehicle-Driver,Home
+1,1,9000051050,4,,,Not driver on trip,150,3,100-499,100-499,30,18.3163455562461,1030,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000051050,4,,,Not driver on trip,,3,"1,000-1,999",0-99,30,18.5525170913611,1330,Privately Owned Vehicle-Passenger,Home
+1,1,9000051492,1,1,900005149201,Driver on trip,100,2,0-99,,5,3.00435052827843,930,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000051492,1,1,900005149201,Driver on trip,,2,0-99,,5,3.07271597265382,1115,Privately Owned Vehicle-Driver,Home
+1,1,9000051492,3,1,900005149201,Not driver on trip,100,2,0-99,,5,3.00435052827843,930,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000051492,3,1,900005149201,Not driver on trip,,2,0-99,,5,3.07271597265382,1115,Privately Owned Vehicle-Passenger,Home
+1,1,9000051740,1,,,,0,1,500-999,500-999,15,0.497203231821007,1915,Walk,Social/Recreational
+2,2,9000051740,1,1,900005174001,Driver on trip,,1,500-999,500-999,25,0.286513362336855,1930,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000051789,1,,,,90,1,"10,000-24,999","10,000-24,999",5,0.418272218769422,1655,Walk,Shopping/Errands
+2,2,9000051789,1,,,,,1,"10,000-24,999","10,000-24,999",5,0.418272218769422,1830,Walk,Home
+1,1,9000051820,1,1,900005182001,Driver on trip,490,1,100-499,100-499,30,20.5661901802362,830,Privately Owned Vehicle-Driver,Work
+2,2,9000051820,1,1,900005182001,Driver on trip,,1,100-499,100-499,30,20.4717215661902,1710,Privately Owned Vehicle-Driver,Home
+1,1,9000051820,2,2,900005182002,Driver on trip,540,1,100-499,"2,000-3,999",35,27.2212554381603,610,Privately Owned Vehicle-Driver,Work
+2,2,9000051820,2,2,900005182002,Driver on trip,,1,"2,000-3,999",100-499,30,27.2939714108142,1545,Privately Owned Vehicle-Driver,Home
+1,1,9000051842,1,2,900005184202,Driver on trip,50,1,0-99,0-99,10,6.30329397141081,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000051842,1,2,900005184202,Driver on trip,,1,0-99,0-99,10,7.13859540087011,1100,Privately Owned Vehicle-Driver,Home
+1,1,9000052001,1,,,,415,1,,"1,000-1,999",65,27.2927284027346,715,Public Transit,Medical/Dental services
+2,2,9000052001,1,,,,,2,500-999,100-499,30,27.2809198259789,1515,Other,Home
+1,1,9000052411,1,1,900005241101,Driver on trip,0,2,"1,000-1,999","2,000-3,999",5,0.383467992541952,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000052411,1,1,900005241101,Driver on trip,,2,"2,000-3,999","1,000-1,999",5,0.383467992541952,1105,Privately Owned Vehicle-Driver,Home
+1,1,9000052411,2,1,900005241101,Not driver on trip,0,2,"1,000-1,999","2,000-3,999",5,0.383467992541952,1100,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000052411,2,1,900005241101,Not driver on trip,,2,"2,000-3,999","1,000-1,999",5,0.383467992541952,1105,Privately Owned Vehicle-Passenger,Home
+1,1,9000052506,1,1,900005250601,Driver on trip,35,1,100-499,"2,000-3,999",10,1.60845245494096,1050,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000052506,1,1,900005250601,Driver on trip,18,1,"2,000-3,999",500-999,12,2.93225605966439,1135,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000052506,1,1,900005250601,Driver on trip,17,1,100-499,500-999,3,0.0907395898073337,1205,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000052506,1,1,900005250601,Driver on trip,17,1,100-499,500-999,3,0.128029832193909,1225,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000052506,1,1,900005250601,Driver on trip,35,1,100-499,"2,000-3,999",10,2.25170913610938,1245,Privately Owned Vehicle-Driver,Shopping/Errands
+6,6,9000052506,1,1,900005250601,Driver on trip,58,1,"2,000-3,999","1,000-1,999",12,1.71597265382225,1330,Privately Owned Vehicle-Driver,Home
+7,7,9000052506,1,1,900005250601,Driver on trip,25,1,100-499,500-999,10,2.28651336233685,1440,Privately Owned Vehicle-Driver,Shopping/Errands
+8,8,9000052506,1,1,900005250601,Driver on trip,30,1,100-499,"1,000-1,999",10,0.712243629583592,1515,Privately Owned Vehicle-Driver,Shopping/Errands
+9,9,9000052506,1,1,900005250601,Driver on trip,30,1,"4,000-9,999",500-999,5,0.240522063393412,1555,Privately Owned Vehicle-Driver,Shopping/Errands
+10,10,9000052506,1,1,900005250601,Driver on trip,17,1,100-499,"1,000-1,999",13,1.66190180236172,1630,Privately Owned Vehicle-Driver,Social/Recreational
+11,11,9000052506,1,1,900005250601,Driver on trip,,1,"2,000-3,999","1,000-1,999",10,0.883157240522063,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000052528,1,1,900005252801,Driver on trip,60,1,"2,000-3,999","4,000-9,999",10,0.981976382846488,920,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000052528,1,1,900005252801,Driver on trip,115,1,"4,000-9,999","1,000-1,999",5,1.23741454319453,1030,Privately Owned Vehicle-Driver,Home
+3,3,9000052528,1,1,900005252801,Driver on trip,15,1,"2,000-3,999","4,000-9,999",5,0.901180857675575,1230,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000052528,1,1,900005252801,Driver on trip,,1,"4,000-9,999",100-499,20,8.66003729024239,1250,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000052666,1,1,900005266601,Driver on trip,600,1,100-499,0-99,30,16.2454940957116,500,Privately Owned Vehicle-Driver,Work
+2,2,9000052666,1,1,900005266601,Driver on trip,,1,0-99,100-499,30,15.8185208203853,1530,Privately Owned Vehicle-Driver,Home
+1,1,9000052666,2,2,900005266602,Driver on trip,60,1,100-499,100-499,30,11.6246115599751,430,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000052666,2,2,900005266602,Driver on trip,,1,100-499,100-499,30,10.8253573648229,600,Privately Owned Vehicle-Driver,Home
+1,1,9000052666,3,3,900005266603,Driver on trip,600,1,100-499,0-99,30,16.2454940957116,730,Privately Owned Vehicle-Driver,Work
+2,2,9000052666,3,3,900005266603,Driver on trip,,1,0-99,100-499,30,15.8185208203853,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000052794,1,1,900005279401,Driver on trip,525,1,0-99,100-499,15,7.01429459291485,800,Privately Owned Vehicle-Driver,Work
+2,2,9000052794,1,1,900005279401,Driver on trip,,1,100-499,500-999,20,7.17712865133623,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000053083,1,1,900005308301,Driver on trip,27,1,500-999,"2,000-3,999",3,0.708514605344935,1130,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000053083,1,1,900005308301,Driver on trip,5,1,"4,000-9,999",100-499,5,1.84462399005594,1200,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000053083,1,1,900005308301,Driver on trip,60,1,100-499,100-499,5,1.01678060907396,1210,Privately Owned Vehicle-Driver,Home
+4,4,9000053083,1,1,900005308301,Driver on trip,35,2,500-999,100-499,10,2.60037290242387,1315,Privately Owned Vehicle-Driver,Social/Recreational
+5,5,9000053083,1,1,900005308301,Driver on trip,,2,100-499,100-499,15,2.8769422001243,1400,Privately Owned Vehicle-Driver,Home
+1,1,9000053083,2,1,900005308301,Not driver on trip,35,2,500-999,100-499,10,2.60037290242387,1315,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000053083,2,1,900005308301,Not driver on trip,,2,100-499,100-499,15,2.8769422001243,1400,Privately Owned Vehicle-Passenger,Home
+1,1,9000053102,1,1,900005310201,Driver on trip,45,1,"1,000-1,999","2,000-3,999",10,2.46737103791175,1020,Privately Owned Vehicle-Driver,Meals
+2,2,9000053102,1,1,900005310201,Driver on trip,2,1,"2,000-3,999",100-499,3,0.232442510876321,1115,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000053102,1,1,900005310201,Driver on trip,195,1,"1,000-1,999","1,000-1,999",15,2.56183965195774,1120,Privately Owned Vehicle-Driver,Home
+4,4,9000053102,1,2,900005310202,Driver on trip,20,1,"1,000-1,999","2,000-3,999",10,2.09136109384711,1450,Privately Owned Vehicle-Driver,Transport someone
+5,5,9000053102,1,2,900005310202,Driver on trip,0,3,"2,000-3,999",100-499,15,4.0733374766936,1520,Privately Owned Vehicle-Driver,Transport someone
+6,6,9000053102,1,2,900005310202,Driver on trip,,1,"2,000-3,999","1,000-1,999",20,6.23803604723431,1535,Privately Owned Vehicle-Driver,Home
+1,1,9000055757,1,1,900005575701,Driver on trip,520,1,0-99,100-499,15,5.79863269111249,740,Privately Owned Vehicle-Driver,Work
+2,2,9000055757,1,1,900005575701,Driver on trip,25,1,100-499,100-499,5,0.864512119328776,1635,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000055757,1,1,900005575701,Driver on trip,,1,500-999,0-99,10,5.42945929148539,1705,Privately Owned Vehicle-Driver,Home
+1,1,9000055757,2,2,900005575702,Driver on trip,5,3,0-99,100-499,10,5.48477315102548,740,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000055757,2,2,900005575702,Driver on trip,570,1,100-499,100-499,5,1.12678682411436,755,Privately Owned Vehicle-Driver,Work
+3,3,9000055757,2,2,900005575702,Driver on trip,,1,500-999,0-99,10,6.95400870105656,1730,Privately Owned Vehicle-Driver,Home
+1,1,9000055757,3,2,900005575702,Not driver on trip,460,3,0-99,100-499,10,5.48477315102548,740,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000055757,3,,,,,2,100-499,0-99,30,5.48477315102548,1530,School Bus,Home
+1,1,9000055757,4,2,900005575702,Not driver on trip,460,3,0-99,100-499,10,5.48477315102548,740,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000055757,4,,,,,2,100-499,0-99,30,5.48477315102548,1530,School Bus,Home
+1,1,9000056572,2,,,Driver on trip,140,1,"2,000-3,999","1,000-1,999",10,3.33374766935985,700,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000056572,2,1,900005657201,Driver on trip,105,1,"4,000-9,999","1,000-1,999",15,4.33001864512119,930,Privately Owned Vehicle-Driver,Work
+3,3,9000056572,2,1,900005657201,Driver on trip,,1,500-999,"1,000-1,999",15,2.00621504039776,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000056572,3,2,900005657202,Driver on trip,570,1,"2,000-3,999",0-99,30,19.5003107520199,700,Privately Owned Vehicle-Driver,Work
+2,2,9000056572,3,2,900005657202,Driver on trip,,1,0-99,"1,000-1,999",30,19.3064014916097,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000056603,1,,,,,1,0-99,"1,000-1,999",60,2.0,1000,Walk,Shopping/Errands
+1,1,9000056603,3,3,900005660303,Driver on trip,600,1,0-99,500-999,60,13.550031075202,700,Privately Owned Vehicle-Driver,Work
+2,2,9000056603,3,3,900005660303,Driver on trip,,1,500-999,"1,000-1,999",45,12.8266003729024,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000057281,1,1,900005728101,Driver on trip,45,2,0-99,100-499,55,56.8154133001864,1835,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000057281,1,1,900005728101,Driver on trip,75,2,,0-99,45,36.0975761342449,2015,Privately Owned Vehicle-Driver,Meals
+3,3,9000057281,1,1,900005728101,Not driver on trip,,2,500-999,"1,000-1,999",30,16.6532007458048,2215,Privately Owned Vehicle-Passenger,Home
+1,1,9000057281,2,1,900005728101,Not driver on trip,45,2,0-99,100-499,55,56.8154133001864,1835,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000057281,2,1,900005728101,Not driver on trip,75,2,,0-99,45,36.0975761342449,2015,Privately Owned Vehicle-Passenger,Meals
+3,3,9000057281,2,1,900005728101,Driver on trip,,2,500-999,"1,000-1,999",30,16.6532007458048,2215,Privately Owned Vehicle-Driver,Home
+1,1,9000057304,1,,,Driver on trip,420,1,100-499,100-499,45,35.8558110627719,715,Privately Owned Vehicle-Driver,Work
+2,2,9000057304,1,,,Driver on trip,15,1,0-99,100-499,30,15.449968924798,1500,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000057304,1,,,Driver on trip,105,1,100-499,100-499,30,20.9726538222498,1545,Privately Owned Vehicle-Driver,Home
+4,4,9000057304,1,,,Driver on trip,12,1,100-499,100-499,3,0.391547545059043,1800,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000057304,1,,,Driver on trip,10,1,100-499,100-499,5,1.08763206960845,1815,Privately Owned Vehicle-Driver,Meals
+6,6,9000057304,1,,,Driver on trip,,1,100-499,100-499,5,1.15661901802362,1830,Privately Owned Vehicle-Driver,Home
+1,1,9000057304,2,,,Driver on trip,420,2,100-499,0-99,5,1.49844623990056,700,Privately Owned Vehicle-Driver,Work
+2,2,9000057304,2,,,Driver on trip,,2,0-99,100-499,5,1.49036668738347,1405,Privately Owned Vehicle-Driver,Home
+1,1,9000057304,3,,,Not driver on trip,420,2,100-499,0-99,5,1.49844623990056,700,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000057304,3,,,Not driver on trip,,2,0-99,100-499,5,1.49036668738347,1405,Privately Owned Vehicle-Passenger,Home
+1,1,9000057949,1,1,900005794901,Driver on trip,495,1,100-499,0-99,15,4.84586699813549,530,Privately Owned Vehicle-Driver,Work
+2,2,9000057949,1,1,900005794901,Driver on trip,165,1,0-99,100-499,15,4.66190180236172,1400,Privately Owned Vehicle-Driver,Home
+3,3,9000057949,1,3,900005794903,Not driver on trip,70,3,100-499,"1,000-1,999",20,11.3635798632691,1700,Privately Owned Vehicle-Passenger,Meals
+4,4,9000057949,1,3,900005794903,Not driver on trip,70,2,"2,000-3,999",100-499,10,1.72343070229956,1830,Privately Owned Vehicle-Passenger,Social/Recreational
+5,5,9000057949,1,3,900005794903,Not driver on trip,,2,100-499,100-499,25,10.6581727781231,1950,Privately Owned Vehicle-Passenger,Home
+1,1,9000057949,2,3,900005794903,Driver on trip,8,1,100-499,100-499,45,27.1448104412679,630,Privately Owned Vehicle-Driver,Work
+2,2,9000057949,2,3,900005794903,Driver on trip,535,2,100-499,100-499,42,27.5108763206961,723,Privately Owned Vehicle-Driver,Home
+3,3,9000057949,2,3,900005794903,Driver on trip,70,3,100-499,"1,000-1,999",20,11.3635798632691,1700,Privately Owned Vehicle-Driver,Meals
+4,4,9000057949,2,3,900005794903,Driver on trip,70,2,"2,000-3,999",100-499,10,1.72343070229956,1830,Privately Owned Vehicle-Driver,Social/Recreational
+5,5,9000057949,2,3,900005794903,Driver on trip,,2,100-499,100-499,25,10.6581727781231,1950,Privately Owned Vehicle-Driver,Home
+1,1,9000072912,1,1,900007291201,Driver on trip,5,1,"1,000-1,999",100-499,5,1.06960845245494,840,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000072912,1,1,900007291201,Driver on trip,35,1,"1,000-1,999",100-499,5,1.31199502796768,850,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000072912,1,1,900007291201,Driver on trip,55,1,"1,000-1,999",100-499,5,1.81106277190802,930,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000072912,1,1,900007291201,Driver on trip,,1,500-999,"1,000-1,999",5,0.849596022374145,1030,Privately Owned Vehicle-Driver,Home
+1,1,9000073284,1,1,900007328401,Driver on trip,85,2,"1,000-1,999","1,000-1,999",5,1.24052206339341,1000,Privately Owned Vehicle-Driver,Meals
+2,2,9000073284,1,1,900007328401,Driver on trip,35,1,0-99,"2,000-3,999",10,2.73586078309509,1130,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000073284,1,1,900007328401,Driver on trip,5,1,"1,000-1,999",100-499,10,5.7538844002486,1215,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000073284,1,1,900007328401,Driver on trip,,1,100-499,"1,000-1,999",15,5.63828464885022,1230,Privately Owned Vehicle-Driver,Home
+1,1,9000073569,1,1,900007356901,Driver on trip,5,1,0-99,0-99,5,4.25357364822871,1300,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000073569,1,1,900007356901,Driver on trip,,1,0-99,0-99,5,4.25357364822871,1310,Privately Owned Vehicle-Driver,Home
+1,1,9000074014,1,1,900007401401,Driver on trip,25,2,100-499,100-499,5,2.06712243629584,930,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000074014,1,1,900007401401,Driver on trip,15,2,500-999,100-499,5,0.149160969546302,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000074014,1,1,900007401401,Driver on trip,20,2,500-999,100-499,5,0.168427594779366,1020,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000074014,1,1,900007401401,Driver on trip,25,2,500-999,100-499,5,1.71286513362337,1045,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000074014,1,1,900007401401,Driver on trip,10,2,500-999,100-499,5,0.440024860161591,1115,Privately Owned Vehicle-Driver,Shopping/Errands
+6,6,9000074014,1,1,900007401401,Driver on trip,,2,500-999,100-499,10,3.2094468614046,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000074014,2,2,900007401402,Driver on trip,285,1,100-499,500-999,45,17.5177128651336,815,Privately Owned Vehicle-Driver,Work
+2,2,9000074014,2,2,900007401402,Driver on trip,,1,500-999,100-499,45,17.3113735239279,1345,Privately Owned Vehicle-Driver,Home
+1,1,9000074014,3,1,900007401401,Not driver on trip,25,2,100-499,100-499,5,2.06712243629584,930,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000074014,3,1,900007401401,Not driver on trip,15,2,500-999,100-499,5,0.149160969546302,1000,Privately Owned Vehicle-Passenger,Shopping/Errands
+3,3,9000074014,3,1,900007401401,Not driver on trip,20,2,500-999,100-499,5,0.168427594779366,1020,Privately Owned Vehicle-Passenger,Shopping/Errands
+4,4,9000074014,3,1,900007401401,Not driver on trip,25,2,500-999,100-499,5,1.71286513362337,1045,Privately Owned Vehicle-Passenger,Shopping/Errands
+5,5,9000074014,3,1,900007401401,Not driver on trip,10,2,500-999,100-499,5,0.440024860161591,1115,Privately Owned Vehicle-Passenger,Shopping/Errands
+6,6,9000074014,3,1,900007401401,Not driver on trip,,2,500-999,100-499,10,3.2094468614046,1130,Privately Owned Vehicle-Passenger,Home
+1,1,9000074147,1,1,900007414701,Driver on trip,95,2,"1,000-1,999",100-499,10,2.40708514605345,800,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000074147,1,1,900007414701,Driver on trip,90,2,"1,000-1,999",0-99,15,10.094468614046,945,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000074147,1,1,900007414701,Driver on trip,,2,0-99,100-499,330,343.863890615289,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000074147,2,1,900007414701,Not driver on trip,95,2,"1,000-1,999",100-499,10,2.40708514605345,800,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000074147,2,1,900007414701,Not driver on trip,90,2,"1,000-1,999",0-99,15,10.094468614046,945,Privately Owned Vehicle-Passenger,Social/Recreational
+3,3,9000074147,2,1,900007414701,Not driver on trip,,2,0-99,100-499,330,343.863890615289,1130,Privately Owned Vehicle-Passenger,Home
+1,1,9000074455,1,2,900007445502,Driver on trip,430,1,"4,000-9,999","1,000-1,999",15,3.23244251087632,1220,Privately Owned Vehicle-Driver,Work
+2,2,9000074455,1,2,900007445502,Driver on trip,45,1,"1,000-1,999","4,000-9,999",15,2.84586699813549,1945,Privately Owned Vehicle-Driver,Home
+3,3,9000074455,1,2,900007445502,Driver on trip,5,1,"4,000-9,999","1,000-1,999",10,1.19080174021131,2045,Privately Owned Vehicle-Driver,Meals
+4,4,9000074455,1,2,900007445502,Driver on trip,,1,"2,000-3,999","4,000-9,999",10,1.22871348663766,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000075021,1,2,900007502102,Driver on trip,20,1,0-99,"1,000-1,999",20,5.55313859540087,830,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000075021,1,2,900007502102,Driver on trip,,1,500-999,"1,000-1,999",20,5.56432566811684,910,Privately Owned Vehicle-Driver,Home
+1,1,9000075136,1,1,900007513601,Driver on trip,550,1,100-499,0-99,5,0.457426973275326,745,Privately Owned Vehicle-Driver,Work
+2,2,9000075136,1,1,900007513601,Driver on trip,,1,100-499,0-99,5,0.64449968924798,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000075136,3,,,,470,2,100-499,0-99,40,1.14170292106899,720,School Bus,School/Daycare/Religious
+2,2,9000075136,3,,,,,2,100-499,0-99,5,1.21068986948415,1550,School Bus,Home
+1,1,9000075214,1,1,900007521401,Driver on trip,5,1,"10,000-24,999","4,000-9,999",5,0.494717215661902,625,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000075214,1,1,900007521401,Driver on trip,0,1,"4,000-9,999","2,000-3,999",5,1.31013051584835,635,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000075214,1,1,900007521401,Driver on trip,5,1,"2,000-3,999","2,000-3,999",5,1.12243629583592,640,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000075214,1,1,900007521401,Driver on trip,180,1,"4,000-9,999","4,000-9,999",10,1.31013051584835,650,Privately Owned Vehicle-Driver,Home
+5,5,9000075214,1,,,,180,2,"10,000-24,999","4,000-9,999",30,1.33623368551896,1000,Walk,Social/Recreational
+6,6,9000075214,1,1,900007521401,Driver on trip,10,1,"10,000-24,999",500-999,10,2.08017402113114,1330,Privately Owned Vehicle-Driver,Shopping/Errands
+7,7,9000075214,1,1,900007521401,Driver on trip,15,1,100-499,100-499,20,11.3766314481044,1350,Privately Owned Vehicle-Driver,Shopping/Errands
+8,8,9000075214,1,1,900007521401,Driver on trip,135,1,0-99,"4,000-9,999",20,20.6892479801119,1425,Privately Owned Vehicle-Driver,Home
+9,9,9000075214,1,,,,15,1,"10,000-24,999","4,000-9,999",5,0.101926662523306,1700,Walk,Meals
+10,10,9000075214,1,,,,,1,"25,000-999,999","4,000-9,999",10,0.101926662523306,1720,Walk,Home
+1,1,9000075214,2,,,,60,2,"10,000-24,999","4,000-9,999",30,1.33623368551896,1000,Walk,Social/Recreational
+2,2,9000075214,2,,,,,2,"2,000-3,999","4,000-9,999",30,1.33188315724052,1130,Walk,Home
+1,1,9000075635,1,1,900007563501,Driver on trip,65,1,100-499,100-499,10,1.48104412678682,815,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000075635,1,1,900007563501,Driver on trip,,1,100-499,100-499,10,1.44748290863891,930,Privately Owned Vehicle-Driver,Home
+1,1,9000076607,1,2,900007660702,Driver on trip,80,1,100-499,500-999,10,4.591671845867,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000076607,1,2,900007660702,Driver on trip,,1,100-499,500-999,10,4.74580484773151,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000076607,2,2,900007660702,Driver on trip,85,1,100-499,"2,000-3,999",5,2.80609073958981,1415,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000076607,2,2,900007660702,Driver on trip,60,1,"1,000-1,999",500-999,15,5.56991920447483,1545,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000076607,2,2,900007660702,Driver on trip,,1,100-499,500-999,20,6.9894344313238,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000076607,3,1,900007660701,Driver on trip,435,1,100-499,500-999,20,6.99440646364201,740,Privately Owned Vehicle-Driver,Work
+2,2,9000076607,3,1,900007660701,Driver on trip,,1,100-499,500-999,15,6.9894344313238,1515,Privately Owned Vehicle-Driver,Home
+1,1,9000076723,1,1,900007672301,Driver on trip,540,1,"2,000-3,999","2,000-3,999",30,13.0571783716594,630,Privately Owned Vehicle-Driver,Work
+2,2,9000076723,1,1,900007672301,Driver on trip,165,1,"1,000-1,999",500-999,30,17.4425108763207,1600,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000076723,1,1,900007672301,Driver on trip,60,2,100-499,"1,000-1,999",15,6.32504661280298,1915,Privately Owned Vehicle-Driver,School/Daycare/Religious
+4,4,9000076723,1,1,900007672301,Driver on trip,,2,500-999,"2,000-3,999",7,2.6674953387197,2030,Privately Owned Vehicle-Driver,Home
+1,1,9000076723,2,1,900007672301,Not driver on trip,145,3,"2,000-3,999",500-999,20,6.25730267246737,1600,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000076723,2,1,900007672301,Not driver on trip,,2,100-499,"2,000-3,999",15,6.65382224984462,1845,Privately Owned Vehicle-Passenger,Home
+1,1,9000076723,3,1,900007672301,Not driver on trip,435,1,"2,000-3,999","2,000-3,999",45,21.3144810441268,730,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000076723,3,1,900007672301,Not driver on trip,0,2,"4,000-9,999","2,000-3,999",30,22.3604723430702,1530,Privately Owned Vehicle-Passenger,Transport someone
+3,3,9000076723,3,1,900007672301,Not driver on trip,175,3,"2,000-3,999",500-999,20,6.25730267246737,1600,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000076723,3,1,900007672301,Not driver on trip,60,2,100-499,"1,000-1,999",15,6.32504661280298,1915,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+5,5,9000076723,3,1,900007672301,Not driver on trip,,2,500-999,"2,000-3,999",7,2.6674953387197,2030,Privately Owned Vehicle-Passenger,Home
+1,1,9000077274,1,1,900007727401,Driver on trip,105,1,"2,000-3,999","2,000-3,999",15,4.61031696706029,1000,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000077274,1,1,900007727401,Driver on trip,80,1,"2,000-3,999","4,000-9,999",25,14.1199502796768,1200,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000077274,1,1,900007727401,Driver on trip,,1,"4,000-9,999","2,000-3,999",25,17.827843380982,1345,Privately Owned Vehicle-Driver,Home
+1,1,9000077545,1,1,900007754501,Driver on trip,620,1,"1,000-1,999","1,000-1,999",25,18.3008079552517,420,Privately Owned Vehicle-Driver,Work
+2,2,9000077545,1,1,900007754501,Driver on trip,,1,"1,000-1,999",0-99,25,18.224984462399,1505,Privately Owned Vehicle-Driver,Home
+1,1,9000086512,1,,,,0,1,100-499,0-99,10,1.53573648228713,1010,Public Transit,Something else
+2,2,9000086512,1,,,,45,1,0-99,0-99,25,0.405842137973897,1020,Public Transit,Shopping/Errands
+3,3,9000086512,1,,,Not driver on trip,375,2,0-99,0-99,15,1.94157862026103,1130,Privately Owned Vehicle-Passenger,Home
+4,4,9000086512,1,,,Not driver on trip,55,2,100-499,0-99,20,3.43940335612181,1800,Privately Owned Vehicle-Passenger,Meals
+5,5,9000086512,1,,,Not driver on trip,,2,0-99,0-99,20,3.4319453076445,1915,Privately Owned Vehicle-Passenger,Home
+1,1,9000087504,1,1,900008750401,Driver on trip,10,1,"1,000-1,999","1,000-1,999",20,5.65382224984462,1030,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000087504,1,,,,329,1,"1,000-1,999","1,000-1,999",1,0.131758856432567,1100,Walk,Shopping/Errands
+3,3,9000087504,1,1,900008750401,Driver on trip,85,2,"1,000-1,999","4,000-9,999",35,15.4841516469857,1630,Privately Owned Vehicle-Driver,Meals
+4,4,9000087504,1,1,900008750401,Driver on trip,150,2,"10,000-24,999","2,000-3,999",15,3.29707893101305,1830,Privately Owned Vehicle-Driver,School/Daycare/Religious
+5,5,9000087504,1,1,900008750401,Driver on trip,,2,"2,000-3,999","2,000-3,999",50,9.99564947172157,2115,Privately Owned Vehicle-Driver,Home
+1,1,9000087504,2,2,900008750402,Driver on trip,440,1,"1,000-1,999","2,000-3,999",10,1.95711622125544,930,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000087504,2,1,900008750401,Not driver on trip,60,2,"2,000-3,999","4,000-9,999",30,10.1348663766314,1700,Privately Owned Vehicle-Passenger,Meals
+3,3,9000087504,2,1,900008750401,Not driver on trip,150,2,"10,000-24,999","2,000-3,999",15,3.29707893101305,1830,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+4,4,9000087504,2,1,900008750401,Not driver on trip,,2,"2,000-3,999","2,000-3,999",50,9.99564947172157,2115,Privately Owned Vehicle-Passenger,Home
+1,1,9000087728,1,1,900008772801,Driver on trip,105,2,0-99,"1,000-1,999",15,7.60348042262275,1800,Privately Owned Vehicle-Driver,Meals
+2,2,9000087728,1,1,900008772801,Driver on trip,,2,"4,000-9,999","1,000-1,999",15,7.40894965817278,2000,Privately Owned Vehicle-Driver,Home
+1,1,9000087728,2,1,900008772801,Not driver on trip,105,2,0-99,"1,000-1,999",15,7.60348042262275,1800,Privately Owned Vehicle-Passenger,Meals
+2,2,9000087728,2,1,900008772801,Not driver on trip,,2,"4,000-9,999","1,000-1,999",15,7.40894965817278,2000,Privately Owned Vehicle-Passenger,Home
+1,1,9000087776,1,2,900008777602,Not driver on trip,,2,"1,000-1,999",500-999,600,618.224984462399,800,Privately Owned Vehicle-Passenger,Home
+1,1,9000087776,2,2,900008777602,Driver on trip,,2,"1,000-1,999",500-999,600,618.224984462399,800,Privately Owned Vehicle-Driver,Home
+1,1,9000087988,1,1,900008798801,Driver on trip,615,1,100-499,0-99,30,18.2790553138595,700,Privately Owned Vehicle-Driver,Work
+2,2,9000087988,1,1,900008798801,Driver on trip,100,1,100-499,0-99,20,16.1901802361715,1745,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000087988,1,1,900008798801,Driver on trip,,4,100-499,0-99,15,1.98756991920447,1945,Privately Owned Vehicle-Driver,Home
+1,1,9000087988,2,2,900008798802,Driver on trip,640,1,100-499,0-99,20,16.2902423865755,530,Privately Owned Vehicle-Driver,Work
+2,2,9000087988,2,2,900008798802,Driver on trip,20,1,0-99,0-99,30,16.8800497203232,1630,Privately Owned Vehicle-Driver,Home
+3,3,9000087988,2,2,900008798802,Driver on trip,135,4,100-499,0-99,10,2.08328154133002,1720,Privately Owned Vehicle-Driver,Social/Recreational
+4,4,9000087988,2,2,900008798802,Driver on trip,,1,100-499,0-99,10,1.98756991920447,1945,Privately Owned Vehicle-Driver,Home
+1,1,9000087988,3,,,,425,2,100-499,0-99,30,0.353014294592915,800,School Bus,School/Daycare/Religious
+2,2,9000087988,3,,,,80,2,"1,000-1,999",0-99,25,0.113113735239279,1535,School Bus,Home
+3,3,9000087988,3,2,900008798802,Not driver on trip,135,4,100-499,0-99,10,2.08328154133002,1720,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000087988,3,1,900008798801,Not driver on trip,,4,100-499,0-99,15,1.98756991920447,1945,Privately Owned Vehicle-Passenger,Home
+1,1,9000087988,4,,,,425,2,100-499,0-99,30,0.353014294592915,800,School Bus,School/Daycare/Religious
+2,2,9000087988,4,,,,80,2,"1,000-1,999",0-99,25,0.113113735239279,1535,School Bus,Home
+3,3,9000087988,4,2,900008798802,Not driver on trip,135,4,100-499,0-99,10,2.08328154133002,1720,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000087988,4,1,900008798801,Not driver on trip,,4,100-499,0-99,15,1.98756991920447,1945,Privately Owned Vehicle-Passenger,Home
+1,1,9000088497,1,,,Driver on trip,90,1,"1,000-1,999",500-999,30,1.47980111870727,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000088497,1,,,Driver on trip,,1,500-999,100-499,30,1.74766935985084,1300,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000088586,1,1,900008858601,Driver on trip,120,1,500-999,500-999,35,20.8483530142946,1325,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000088586,1,1,900008858601,Driver on trip,,1,500-999,100-499,35,21.5705407085146,1600,Privately Owned Vehicle-Driver,Home
+1,1,9000088586,2,2,900008858602,Driver on trip,10,1,500-999,100-499,5,1.87383467992542,1500,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000088586,2,2,900008858602,Driver on trip,10,1,500-999,100-499,5,2.33871970167806,1515,Privately Owned Vehicle-Driver,Home
+3,3,9000088586,2,2,900008858602,Driver on trip,20,1,500-999,100-499,5,2.07395898073337,1530,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000088586,2,2,900008858602,Driver on trip,,1,500-999,100-499,5,2.58545680546924,1555,Privately Owned Vehicle-Driver,Home
+1,1,9000088617,1,1,900008861701,Driver on trip,150,1,"2,000-3,999",100-499,195,206.563082660037,545,Privately Owned Vehicle-Driver,Work
+2,2,9000088617,1,1,900008861701,Driver on trip,1,1,0-99,"2,000-3,999",31,5.52827843380982,1130,Privately Owned Vehicle-Driver,Work
+3,3,9000088617,1,1,900008861701,Driver on trip,90,1,"2,000-3,999",100-499,28,10.8800497203232,1202,Privately Owned Vehicle-Driver,Work
+4,4,9000088617,1,1,900008861701,Driver on trip,0,1,100-499,"2,000-3,999",30,3.64636420136731,1400,Privately Owned Vehicle-Driver,Work
+5,5,9000088617,1,1,900008861701,Driver on trip,5,1,"1,000-1,999","2,000-3,999",10,1.24300807955252,1430,Privately Owned Vehicle-Driver,Work
+6,6,9000088617,1,1,900008861701,Driver on trip,0,1,"2,000-3,999","1,000-1,999",15,1.82535736482287,1445,Privately Owned Vehicle-Driver,Work
+7,7,9000088617,1,1,900008861701,Driver on trip,,1,"2,000-3,999","2,000-3,999",30,4.85829707893101,1500,Privately Owned Vehicle-Driver,Work
+1,1,9000088617,2,4,900008861704,Driver on trip,330,1,"2,000-3,999",0-99,90,67.3884400248602,600,Privately Owned Vehicle-Driver,Work
+2,2,9000088617,2,4,900008861704,Driver on trip,180,1,"2,000-3,999",500-999,30,5.4947172156619,1300,Privately Owned Vehicle-Driver,Work
+3,3,9000088617,2,4,900008861704,Driver on trip,,1,100-499,"2,000-3,999",80,71.9353635798633,1630,Privately Owned Vehicle-Driver,Home
+1,1,9000089250,1,4,900008925004,Driver on trip,330,1,0-99,0-99,10,4.27781230577999,550,Privately Owned Vehicle-Driver,Work
+2,2,9000089250,1,4,900008925004,Driver on trip,45,1,0-99,500-999,15,5.84586699813549,1130,Privately Owned Vehicle-Driver,Meals
+3,3,9000089250,1,4,900008925004,Driver on trip,255,1,500-999,0-99,15,5.98819142324425,1230,Privately Owned Vehicle-Driver,Work
+4,4,9000089250,1,4,900008925004,Driver on trip,140,1,0-99,0-99,10,4.27781230577999,1700,Privately Owned Vehicle-Driver,Home
+5,5,9000089250,1,1,900008925001,Driver on trip,75,1,0-99,0-99,15,10.1261653200746,1930,Privately Owned Vehicle-Driver,School/Daycare/Religious
+6,6,9000089250,1,1,900008925001,Driver on trip,,1,0-99,0-99,15,10.1939092604102,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000089250,2,2,900008925002,Driver on trip,70,2,0-99,100-499,20,11.0062150403978,1300,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000089250,2,2,900008925002,Driver on trip,,2,500-999,0-99,20,11.3648228713487,1430,Privately Owned Vehicle-Driver,Home
+1,1,9000089250,3,3,900008925003,Driver on trip,485,3,0-99,"1,000-1,999",55,27.4263517712865,800,Privately Owned Vehicle-Driver,Work
+2,2,9000089250,3,3,900008925003,Driver on trip,65,3,"1,000-1,999",0-99,55,27.4244872591672,1700,Privately Owned Vehicle-Driver,Home
+3,3,9000089250,3,3,900008925003,Driver on trip,100,1,0-99,0-99,20,10.1261653200746,1900,Privately Owned Vehicle-Driver,School/Daycare/Religious
+4,4,9000089250,3,3,900008925003,Driver on trip,,1,0-99,0-99,20,10.1939092604102,2100,Privately Owned Vehicle-Driver,Home
+1,1,9000089269,1,1,900008926901,Driver on trip,550,1,0-99,100-499,50,37.011187072716,705,Privately Owned Vehicle-Driver,Work
+2,2,9000089269,1,1,900008926901,Driver on trip,,1,100-499,0-99,55,39.6842759477937,1705,Privately Owned Vehicle-Driver,Home
+1,1,9000089269,2,3,900008926903,Driver on trip,525,1,0-99,"1,000-1,999",15,3.55189558732132,700,Privately Owned Vehicle-Driver,Work
+2,2,9000089269,2,3,900008926903,Driver on trip,,1,0-99,0-99,15,3.55376009944065,1600,Privately Owned Vehicle-Driver,Home
+1,1,9000089488,1,1,900008948801,Driver on trip,15,3,100-499,100-499,15,4.27781230577999,930,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000089488,1,1,900008948801,Driver on trip,74,3,100-499,100-499,1,0.12616532007458,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000089488,1,1,900008948801,Driver on trip,,3,100-499,100-499,15,4.12492231199503,1115,Privately Owned Vehicle-Driver,Home
+1,1,9000089644,1,1,900008964401,Driver on trip,80,1,100-499,100-499,10,3.1466749533872,900,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000089644,1,1,900008964401,Driver on trip,10,1,100-499,500-999,10,3.33747669359851,1030,Privately Owned Vehicle-Driver,Meals
+3,3,9000089644,1,1,900008964401,Driver on trip,315,1,500-999,500-999,10,2.48228713486638,1050,Privately Owned Vehicle-Driver,Work
+4,4,9000089644,1,1,900008964401,Driver on trip,60,1,"1,000-1,999",100-499,15,4.09011808576756,1615,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000089644,1,1,900008964401,Driver on trip,60,1,100-499,100-499,15,6.60845245494096,1730,Privately Owned Vehicle-Driver,Shopping/Errands
+6,6,9000089644,1,1,900008964401,Driver on trip,155,1,100-499,100-499,10,0.586078309509012,1845,Privately Owned Vehicle-Driver,Meals
+7,7,9000089644,1,1,900008964401,Driver on trip,25,1,100-499,100-499,15,3.38036047234307,2130,Privately Owned Vehicle-Driver,Shopping/Errands
+8,8,9000089644,1,1,900008964401,Driver on trip,,1,100-499,100-499,80,82.8266003729024,2210,Privately Owned Vehicle-Driver,Home
+1,1,9000089940,1,1,900008994001,Driver on trip,65,2,500-999,100-499,35,18.4014916096955,1640,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000089940,1,1,900008994001,Driver on trip,0,2,100-499,500-999,10,1.79303915475451,1820,Privately Owned Vehicle-Driver,Meals
+3,3,9000089940,1,1,900008994001,Driver on trip,,2,100-499,500-999,40,19.9254195152268,1830,Privately Owned Vehicle-Driver,Home
+1,1,9000096667,1,,,,,1,"2,000-3,999","2,000-3,999",120,1.0,600,Walk,Social/Recreational
+1,1,9000096796,1,1,900009679601,Driver on trip,140,1,"1,000-1,999","1,000-1,999",10,7.4816656308266,630,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000096796,1,1,900009679601,Driver on trip,,1,500-999,"1,000-1,999",20,7.7644499689248,900,Privately Owned Vehicle-Driver,Home
+1,1,9000096796,2,2,900009679602,Driver on trip,180,1,"1,000-1,999","1,000-1,999",15,8.47855811062772,1730,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000096796,2,2,900009679602,Driver on trip,,1,"1,000-1,999","1,000-1,999",15,8.1752641392169,2045,Privately Owned Vehicle-Driver,Home
+1,1,9000096796,4,4,900009679604,Driver on trip,340,1,"1,000-1,999","1,000-1,999",20,5.00124300807955,900,Privately Owned Vehicle-Driver,Work
+2,2,9000096796,4,4,900009679604,Driver on trip,,1,500-999,"1,000-1,999",20,5.14294592914854,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000096993,1,1,900009699301,Driver on trip,405,3,0-99,500-999,90,80.4561839651958,1030,Privately Owned Vehicle-Driver,Home
+2,2,9000096993,1,1,900009699301,Driver on trip,45,1,0-99,500-999,15,6.57737725295214,1845,Privately Owned Vehicle-Driver,Meals
+3,3,9000096993,1,1,900009699301,Driver on trip,,1,500-999,500-999,15,6.32566811684276,1945,Privately Owned Vehicle-Driver,Home
+1,1,9000096993,2,1,900009699301,Not driver on trip,,3,0-99,500-999,90,80.4561839651958,1030,Privately Owned Vehicle-Passenger,Home
+1,1,9000096993,4,1,900009699301,Not driver on trip,,3,0-99,500-999,90,80.4561839651958,1030,Privately Owned Vehicle-Passenger,Home
+1,1,9000097459,1,1,900009745901,Driver on trip,,1,"1,000-1,999","1,000-1,999",12,6.78682411435674,1600,Privately Owned Vehicle-Driver,Home
+1,1,9000097459,2,2,900009745902,Driver on trip,55,1,"2,000-3,999","2,000-3,999",10,1.24300807955252,745,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000097459,2,2,900009745902,Driver on trip,,1,"2,000-3,999","1,000-1,999",10,1.27159726538222,850,Privately Owned Vehicle-Driver,Home
+1,1,9000097889,1,,,,185,1,"1,000-1,999","2,000-3,999",50,13.3760099440646,1715,Bike,Social/Recreational
+2,2,9000097889,1,1,900009788901,Not driver on trip,,2,"2,000-3,999",100-499,20,12.4847731510255,2110,Privately Owned Vehicle-Passenger,Home
+1,1,9000097889,2,1,900009788901,Driver on trip,205,1,"1,000-1,999","2,000-3,999",25,13.3760099440646,1720,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000097889,2,1,900009788901,Driver on trip,,2,"2,000-3,999",100-499,20,12.4847731510255,2110,Privately Owned Vehicle-Driver,Home
+1,1,9000097889,3,,,Not driver on trip,245,4,"1,000-1,999",0-99,25,11.7607209446861,1100,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000097889,3,,,Not driver on trip,,4,0-99,500-999,30,19.4133001864512,1530,Privately Owned Vehicle-Passenger,Social/Recreational
+1,1,9000097889,4,,,Not driver on trip,165,6,"1,000-1,999",0-99,25,11.7607209446861,1100,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000097889,4,,,Not driver on trip,230,6,0-99,500-999,30,19.0397762585457,1410,Privately Owned Vehicle-Passenger,Social/Recreational
+3,3,9000097889,4,,,Not driver on trip,190,3,500-999,100-499,30,13.6948415164699,1830,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000097889,4,,,Not driver on trip,,3,100-499,500-999,35,13.3772529521442,2210,Privately Owned Vehicle-Passenger,Social/Recreational
+1,1,9000098265,1,1,900009826501,Driver on trip,25,4,"1,000-1,999","2,000-3,999",15,8.11995027967682,1000,Privately Owned Vehicle-Driver,Meals
+2,2,9000098265,1,1,900009826501,Driver on trip,10,4,"2,000-3,999","2,000-3,999",5,0.180236171535115,1040,Privately Owned Vehicle-Driver,Meals
+3,3,9000098265,1,1,900009826501,Driver on trip,4,4,"2,000-3,999","2,000-3,999",1,0.0354257302672467,1055,Privately Owned Vehicle-Driver,Meals
+4,4,9000098265,1,1,900009826501,Driver on trip,15,4,"2,000-3,999",500-999,15,7.38595400870106,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000098265,1,1,900009826501,Driver on trip,410,4,500-999,"1,000-1,999",5,1.75264139216905,1130,Privately Owned Vehicle-Driver,Home
+6,6,9000098265,1,1,900009826501,Driver on trip,5,3,"1,000-1,999",500-999,5,1.78620261031697,1825,Privately Owned Vehicle-Driver,Shopping/Errands
+7,7,9000098265,1,1,900009826501,Driver on trip,,3,500-999,"1,000-1,999",5,1.75264139216905,1835,Privately Owned Vehicle-Driver,Home
+1,1,9000098265,3,1,900009826501,Not driver on trip,25,4,"1,000-1,999","2,000-3,999",15,8.11995027967682,1000,Privately Owned Vehicle-Passenger,Meals
+2,2,9000098265,3,1,900009826501,Not driver on trip,10,4,"2,000-3,999","2,000-3,999",5,0.180236171535115,1040,Privately Owned Vehicle-Passenger,Meals
+3,3,9000098265,3,1,900009826501,Not driver on trip,4,4,"2,000-3,999","2,000-3,999",1,0.0354257302672467,1055,Privately Owned Vehicle-Passenger,Meals
+4,4,9000098265,3,1,900009826501,Not driver on trip,15,4,"2,000-3,999",500-999,15,7.38595400870106,1100,Privately Owned Vehicle-Passenger,Shopping/Errands
+5,5,9000098265,3,1,900009826501,Not driver on trip,410,4,500-999,"1,000-1,999",5,1.75264139216905,1130,Privately Owned Vehicle-Passenger,Home
+6,6,9000098265,3,1,900009826501,Not driver on trip,5,3,"1,000-1,999",500-999,5,1.78620261031697,1825,Privately Owned Vehicle-Passenger,Shopping/Errands
+7,7,9000098265,3,1,900009826501,Not driver on trip,,3,500-999,"1,000-1,999",5,1.75264139216905,1835,Privately Owned Vehicle-Passenger,Home
+1,1,9000098452,1,1,900009845201,Not driver on trip,540,2,,100-499,25,6.15226848974518,1430,Privately Owned Vehicle-Passenger,Work
+2,2,9000098452,1,1,900009845201,Not driver on trip,,2,100-499,0-99,15,6.2355500310752,2355,Privately Owned Vehicle-Passenger,Home
+1,1,9000098452,2,1,900009845201,Driver on trip,540,2,,100-499,25,6.15226848974518,1430,Privately Owned Vehicle-Driver,Work
+2,2,9000098452,2,1,900009845201,Driver on trip,,2,100-499,0-99,15,6.2355500310752,2355,Privately Owned Vehicle-Driver,Home
+1,1,9000098627,1,1,900009862701,Driver on trip,35,1,500-999,100-499,10,2.08328154133002,715,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000098627,1,1,900009862701,Driver on trip,0,1,100-499,100-499,10,1.78247358607831,800,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000098627,1,1,900009862701,Driver on trip,25,1,100-499,100-499,10,2.27843380981976,810,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000098627,1,1,900009862701,Driver on trip,10,1,100-499,100-499,15,3.06836544437539,845,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000098627,1,1,900009862701,Driver on trip,,1,500-999,100-499,10,2.92541951522685,910,Privately Owned Vehicle-Driver,Home
+1,1,9000099026,1,1,900009902601,Driver on trip,6,3,0-99,100-499,30,28.905531385954,720,Privately Owned Vehicle-Driver,Meals
+2,2,9000099026,1,1,900009902601,Driver on trip,2,3,100-499,100-499,2,0.195152268489745,756,Privately Owned Vehicle-Driver,Transport someone
+3,3,9000099026,1,1,900009902601,Driver on trip,1,3,100-499,500-999,17,8.48725916718459,800,Privately Owned Vehicle-Driver,Transport someone
+4,4,9000099026,1,1,900009902601,Driver on trip,410,1,"1,000-1,999","1,000-1,999",9,2.05966438781852,818,Privately Owned Vehicle-Driver,Work
+5,5,9000099026,1,1,900009902601,Driver on trip,3,1,"1,000-1,999",500-999,8,4.24362958359229,1517,Privately Owned Vehicle-Driver,Shopping/Errands
+6,6,9000099026,1,1,900009902601,Driver on trip,7,1,500-999,"1,000-1,999",5,2.05966438781852,1528,Privately Owned Vehicle-Driver,Meals
+7,7,9000099026,1,1,900009902601,Driver on trip,39,1,"1,000-1,999","1,000-1,999",6,2.18458669981355,1540,Privately Owned Vehicle-Driver,Work
+8,8,9000099026,1,1,900009902601,Driver on trip,9,1,"1,000-1,999",500-999,10,2.08017402113114,1625,Privately Owned Vehicle-Driver,Transport someone
+9,9,9000099026,1,1,900009902601,Driver on trip,20,2,"1,000-1,999","4,000-9,999",11,3.34244872591672,1644,Privately Owned Vehicle-Driver,Meals
+10,10,9000099026,1,1,900009902601,Driver on trip,30,2,"10,000-24,999","1,000-1,999",15,3.38284648850218,1715,Privately Owned Vehicle-Driver,Shopping/Errands
+11,11,9000099026,1,1,900009902601,Driver on trip,,2,"2,000-3,999",0-99,40,29.0372902423866,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000099026,2,1,900009902601,Not driver on trip,6,3,0-99,100-499,30,28.905531385954,720,Privately Owned Vehicle-Passenger,Meals
+2,2,9000099026,2,1,900009902601,Not driver on trip,362,3,100-499,100-499,2,0.195152268489745,756,Privately Owned Vehicle-Passenger,Work
+3,3,9000099026,2,3,900009902603,Driver on trip,10,1,100-499,0-99,5,4.05469235550031,1400,Privately Owned Vehicle-Driver,Meals
+4,4,9000099026,2,3,900009902603,Driver on trip,281,1,0-99,100-499,4,4.70789310130516,1415,Privately Owned Vehicle-Driver,Work
+5,5,9000099026,2,3,900009902603,Driver on trip,,1,100-499,0-99,45,29.1050341827222,1900,Privately Owned Vehicle-Driver,Home
+1,1,9000099026,3,2,900009902602,Driver on trip,510,1,0-99,"1,000-1,999",40,32.5910503418272,1300,Privately Owned Vehicle-Driver,Work
+2,2,9000099026,3,2,900009902602,Driver on trip,,1,"1,000-1,999",0-99,40,32.7949036668738,2210,Privately Owned Vehicle-Driver,Home
+1,1,9000099026,4,1,900009902601,Not driver on trip,6,3,0-99,100-499,30,28.905531385954,720,Privately Owned Vehicle-Passenger,Meals
+2,2,9000099026,4,1,900009902601,Not driver on trip,2,3,100-499,100-499,2,0.195152268489745,756,Privately Owned Vehicle-Passenger,Transport someone
+3,3,9000099026,4,1,900009902601,Not driver on trip,507,3,100-499,500-999,17,8.48725916718459,800,Privately Owned Vehicle-Passenger,Transport someone
+4,4,9000099026,4,1,900009902601,Not driver on trip,20,2,"1,000-1,999","4,000-9,999",11,3.34244872591672,1644,Privately Owned Vehicle-Passenger,Meals
+5,5,9000099026,4,1,900009902601,Not driver on trip,30,2,"10,000-24,999","1,000-1,999",15,3.38284648850218,1715,Privately Owned Vehicle-Passenger,Shopping/Errands
+6,6,9000099026,4,1,900009902601,Not driver on trip,,2,"2,000-3,999",0-99,40,29.0372902423866,1800,Privately Owned Vehicle-Passenger,Home
+1,1,9000105419,1,1,900010541901,Driver on trip,395,1,100-499,"1,000-1,999",25,11.9968924798011,730,Privately Owned Vehicle-Driver,Work
+2,2,9000105419,1,1,900010541901,Driver on trip,5,1,"1,000-1,999",100-499,15,2.97700435052828,1430,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000105419,1,1,900010541901,Driver on trip,90,1,0-99,100-499,10,1.3349906774394,1450,Privately Owned Vehicle-Driver,Medical/Dental services
+4,4,9000105419,1,1,900010541901,Driver on trip,40,1,0-99,100-499,35,10.5257924176507,1630,Privately Owned Vehicle-Driver,Home
+5,5,9000105419,1,,,Not driver on trip,190,2,100-499,"1,000-1,999",20,6.59726538222498,1745,Privately Owned Vehicle-Passenger,Social/Recreational
+6,6,9000105419,1,,,Not driver on trip,,2,500-999,100-499,15,6.56432566811684,2115,Privately Owned Vehicle-Passenger,Home
+1,1,9000105449,1,1,900010544901,Driver on trip,645,1,"1,000-1,999","1,000-1,999",15,1.56494717215662,700,Privately Owned Vehicle-Driver,Work
+2,2,9000105449,1,1,900010544901,Driver on trip,,1,500-999,"1,000-1,999",15,1.7147296457427,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000105449,2,2,900010544902,Driver on trip,610,1,"1,000-1,999","2,000-3,999",50,15.0801740211311,800,Privately Owned Vehicle-Driver,Work
+2,2,9000105449,2,2,900010544902,Driver on trip,,1,"2,000-3,999","1,000-1,999",45,14.9477936606588,1900,Privately Owned Vehicle-Driver,Home
+1,1,9000105449,3,,,,400,1,"1,000-1,999","1,000-1,999",20,2.95152268489745,900,Other,Work
+2,2,9000105449,3,,,,,1,"1,000-1,999","1,000-1,999",30,2.84897451833437,1600,Other,Home
+1,1,9000105555,1,1,900010555501,Driver on trip,45,1,"1,000-1,999",100-499,60,34.016780609074,900,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000105555,1,1,900010555501,Driver on trip,35,1,100-499,100-499,30,4.68986948415165,1045,Privately Owned Vehicle-Driver,Meals
+3,3,9000105555,1,1,900010555501,Driver on trip,,1,100-499,"1,000-1,999",60,30.2256059664388,1150,Privately Owned Vehicle-Driver,Home
+1,1,9000105555,3,6,900010555506,Driver on trip,465,1,"1,000-1,999","2,000-3,999",45,25.9540087010566,830,Privately Owned Vehicle-Driver,Work
+2,2,9000105555,3,6,900010555506,Driver on trip,,1,"4,000-9,999","1,000-1,999",75,25.1075201988813,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000106214,1,1,900010621401,Driver on trip,20,1,100-499,100-499,20,7.01180857675575,1640,Privately Owned Vehicle-Driver,Something else
+2,2,9000106214,1,,,Driver on trip,,1,100-499,100-499,25,7.82100683654444,1720,Privately Owned Vehicle-Driver,Home
+1,1,9000106857,1,1,900010685701,Driver on trip,100,1,500-999,"1,000-1,999",20,9.62336855189559,1800,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000106857,1,1,900010685701,Driver on trip,,1,500-999,100-499,30,9.66003729024239,2000,Privately Owned Vehicle-Driver,Home
+1,1,9000106904,1,1,900010690401,Driver on trip,590,1,"2,000-3,999","1,000-1,999",20,14.5835922933499,615,Privately Owned Vehicle-Driver,Work
+2,2,9000106904,1,1,900010690401,Driver on trip,,1,500-999,"2,000-3,999",25,14.5034182722188,1625,Privately Owned Vehicle-Driver,Home
+1,1,9000107847,1,1,900010784701,Driver on trip,,1,500-999,500-999,60,51.6998135487881,600,Privately Owned Vehicle-Driver,Something else
+1,1,9000113631,1,1,900011363101,Driver on trip,5,1,100-499,100-499,10,0.709136109384711,1245,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000113631,1,1,900011363101,Driver on trip,,1,"1,000-1,999",100-499,20,0.706650093225606,1300,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000114455,1,1,900011445501,Driver on trip,30,1,100-499,100-499,25,14.7830950901181,550,Privately Owned Vehicle-Driver,Work
+2,2,9000114455,1,,,Driver on trip,540,1,100-499,500-999,60,10.1814791796147,645,Privately Owned Vehicle-Driver,Work
+3,3,9000114455,1,,,Driver on trip,15,1,500-999,100-499,30,10.1180857675575,1645,Privately Owned Vehicle-Driver,Work
+4,4,9000114455,1,1,900011445501,Driver on trip,,1,100-499,500-999,30,14.7837165941579,1730,Privately Owned Vehicle-Driver,Home
+1,1,9000114543,1,2,900011454302,Driver on trip,625,1,"1,000-1,999","2,000-3,999",20,8.2852703542573,600,Privately Owned Vehicle-Driver,Work
+2,2,9000114543,1,2,900011454302,Driver on trip,,1,"2,000-3,999","2,000-3,999",25,7.7669359850839,1645,Privately Owned Vehicle-Driver,Home
+1,1,9000114543,2,1,900011454301,Driver on trip,0,2,"1,000-1,999","4,000-9,999",15,2.45307644499689,700,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000114543,2,1,900011454301,Driver on trip,140,1,"4,000-9,999","4,000-9,999",10,1.53511497824736,715,Privately Owned Vehicle-Driver,Work
+3,3,9000114543,2,1,900011454301,Driver on trip,35,1,"2,000-3,999","1,000-1,999",25,5.62958359229335,945,Privately Owned Vehicle-Driver,Work
+4,4,9000114543,2,1,900011454301,Driver on trip,90,1,,"4,000-9,999",30,2.47607209446861,1045,Privately Owned Vehicle-Driver,Work
+5,5,9000114543,2,1,900011454301,Driver on trip,20,1,"2,000-3,999","2,000-3,999",25,5.47980111870727,1245,Privately Owned Vehicle-Driver,Meals
+6,6,9000114543,2,1,900011454301,Driver on trip,190,1,"4,000-9,999","4,000-9,999",10,1.14045991298943,1330,Privately Owned Vehicle-Driver,Work
+7,7,9000114543,2,1,900011454301,Driver on trip,0,1,"2,000-3,999","4,000-9,999",10,1.44002486016159,1650,Privately Owned Vehicle-Driver,Transport someone
+8,8,9000114543,2,1,900011454301,Driver on trip,,2,"4,000-9,999","2,000-3,999",20,2.41143567433188,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000114543,3,,,,445,20,"1,000-1,999","2,000-3,999",20,3.63579863269111,715,School Bus,School/Daycare/Religious
+2,2,9000114543,3,,,,,20,"2,000-3,999","2,000-3,999",45,2.75761342448726,1500,School Bus,Home
+1,1,9000114543,4,1,900011454301,Not driver on trip,585,2,"1,000-1,999","4,000-9,999",15,2.45307644499689,700,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000114543,4,1,900011454301,Not driver on trip,,2,"4,000-9,999","2,000-3,999",20,2.41143567433188,1700,Privately Owned Vehicle-Passenger,Home
+1,1,9000114675,1,1,900011467501,Driver on trip,6,1,"2,000-3,999","2,000-3,999",5,2.22498446239901,1711,Privately Owned Vehicle-Driver,Meals
+2,2,9000114675,1,1,900011467501,Driver on trip,,1,"1,000-1,999","2,000-3,999",6,2.24798011187073,1722,Privately Owned Vehicle-Driver,Home
+1,1,9000114675,2,2,900011467502,Driver on trip,17,1,"2,000-3,999","2,000-3,999",5,2.24052206339341,1305,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000114675,2,2,900011467502,Driver on trip,,1,"1,000-1,999","2,000-3,999",6,2.22684897451833,1327,Privately Owned Vehicle-Driver,Home
+1,1,9000115191,1,1,900011519101,Driver on trip,5,1,500-999,100-499,10,1.61093847110006,1030,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000115191,1,1,900011519101,Driver on trip,40,2,100-499,100-499,5,1.03356121814792,1045,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000115191,1,1,900011519101,Driver on trip,,2,100-499,100-499,5,1.0994406463642,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000115191,2,,,,435,2,500-999,100-499,12,1.61093847110006,718,School Bus,School/Daycare/Religious
+2,2,9000115191,2,,,,,1,100-499,100-499,15,1.60534493474208,1445,School Bus,Home
+1,1,9000115191,3,,,,195,2,500-999,100-499,12,1.61093847110006,718,School Bus,School/Daycare/Religious
+2,2,9000115191,3,1,900011519101,Not driver on trip,40,2,100-499,100-499,5,1.03356121814792,1045,Privately Owned Vehicle-Passenger,Shopping/Errands
+3,3,9000115191,3,1,900011519101,Not driver on trip,,2,100-499,100-499,5,1.0994406463642,1130,Privately Owned Vehicle-Passenger,Home
+1,1,9000126074,1,1,900012607401,Driver on trip,80,1,"2,000-3,999",500-999,10,1.79428216283406,900,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000126074,1,1,900012607401,Driver on trip,,1,500-999,"1,000-1,999",10,1.79428216283406,1030,Privately Owned Vehicle-Driver,Home
+1,1,9000126873,1,2,900012687302,Driver on trip,35,1,"1,000-1,999",100-499,25,17.969546302051,800,Privately Owned Vehicle-Driver,Work
+2,2,9000126873,1,2,900012687302,Driver on trip,,1,100-499,"4,000-9,999",35,5.25730267246737,900,Privately Owned Vehicle-Driver,Home
+1,1,9000126873,2,1,900012687301,Driver on trip,735,1,100-499,100-499,45,4.36730888750777,500,Privately Owned Vehicle-Driver,Work
+2,2,9000126873,2,1,900012687301,Driver on trip,,1,100-499,"4,000-9,999",45,4.6780609073959,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000127169,3,2,900012716902,Not driver on trip,,3,100-499,0-99,15,8.6177750155376,1000,Privately Owned Vehicle-Passenger,Home
+1,1,9000127169,4,2,900012716902,Not driver on trip,,3,100-499,0-99,15,8.6177750155376,1000,Privately Owned Vehicle-Passenger,Home
+1,1,9000127584,1,,,,220,1,"1,000-1,999","2,000-3,999",20,0.3455562461156,1140,Walk,Meals
+2,2,9000127584,1,,,Driver on trip,,2,"1,000-1,999","2,000-3,999",20,0.320696084524549,1540,Privately Owned Vehicle-Driver,Home
+1,1,9000127584,2,,,Not driver on trip,220,2,"1,000-1,999",100-499,20,15.5879428216283,1140,Privately Owned Vehicle-Passenger,Meals
+2,2,9000127584,2,,,Not driver on trip,,2,500-999,"2,000-3,999",20,15.1709136109385,1540,Privately Owned Vehicle-Passenger,Home
+1,1,9000128096,1,1,900012809601,Driver on trip,550,1,"10,000-24,999","4,000-9,999",15,4.8663766314481,700,Privately Owned Vehicle-Driver,Work
+2,2,9000128096,1,1,900012809601,Driver on trip,,1,"4,000-9,999","10,000-24,999",20,4.97762585456805,1625,Privately Owned Vehicle-Driver,Home
+1,1,9000128395,1,2,900012839502,Driver on trip,195,2,100-499,"25,000-999,999",80,36.3816034804226,1730,Privately Owned Vehicle-Driver,Meals
+2,2,9000128395,1,2,900012839502,Driver on trip,,2,"25,000-999,999",100-499,100,36.6264760720945,2205,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000128507,1,,,,0,1,"4,000-9,999","1,000-1,999",30,0.784959602237415,700,Walk,Social/Recreational
+2,2,9000128507,1,,,,,1,500-999,"2,000-3,999",30,0.784959602237415,730,Walk,Social/Recreational
+1,1,9000145587,1,,,,570,1,"1,000-1,999",100-499,20,0.170913610938471,410,Walk,Home
+2,2,9000145587,1,,,,5,1,"1,000-1,999",100-499,25,0.704164077066501,1400,Walk,Shopping/Errands
+3,3,9000145587,1,,,,15,1,500-999,"1,000-1,999",5,0.285270354257303,1430,Bike,Shopping/Errands
+4,4,9000145587,1,,,,,1,"1,000-1,999",100-499,25,0.989434431323804,1450,Bike,Home
+1,1,9000145587,2,,,,420,1,"1,000-1,999",100-499,10,0.83716594157862,1550,Walk,Work
+2,2,9000145587,2,,,,,1,500-999,100-499,15,0.83716594157862,2300,Walk,Home
+1,1,9000145752,1,1,900014575201,Driver on trip,1,4,500-999,500-999,10,3.79366065879428,730,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000145752,1,1,900014575201,Driver on trip,1,2,100-499,"2,000-3,999",7,2.05842137973897,741,Privately Owned Vehicle-Driver,Transport someone
+3,3,9000145752,1,1,900014575201,Driver on trip,373,1,"1,000-1,999",500-999,6,1.81976382846488,749,Privately Owned Vehicle-Driver,Home
+4,4,9000145752,1,1,900014575201,Driver on trip,20,1,500-999,"2,000-3,999",4,1.81976382846488,1408,Privately Owned Vehicle-Driver,Transport someone
+5,5,9000145752,1,1,900014575201,Driver on trip,35,2,"1,000-1,999",500-999,5,2.06587942821628,1432,Privately Owned Vehicle-Driver,Transport someone
+6,6,9000145752,1,1,900014575201,Driver on trip,,4,100-499,500-999,3,3.78620261031697,1512,Privately Owned Vehicle-Driver,Home
+1,1,9000145752,3,1,900014575201,Not driver on trip,1,4,500-999,500-999,10,3.79366065879428,730,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000145752,3,1,900014575201,Not driver on trip,404,2,100-499,"2,000-3,999",7,2.05842137973897,741,Privately Owned Vehicle-Passenger,Transport someone
+3,3,9000145752,3,1,900014575201,Not driver on trip,35,2,"1,000-1,999",500-999,5,2.06587942821628,1432,Privately Owned Vehicle-Passenger,Transport someone
+4,4,9000145752,3,1,900014575201,Not driver on trip,,4,100-499,500-999,3,3.78620261031697,1512,Privately Owned Vehicle-Passenger,Home
+1,1,9000145752,4,1,900014575201,Not driver on trip,452,4,500-999,500-999,10,3.79366065879428,730,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000145752,4,1,900014575201,Not driver on trip,,4,100-499,500-999,3,3.78620261031697,1512,Privately Owned Vehicle-Passenger,Home
+1,1,9000145752,5,1,900014575201,Not driver on trip,452,4,500-999,500-999,10,3.79366065879428,730,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000145752,5,1,900014575201,Not driver on trip,,4,100-499,500-999,3,3.78620261031697,1512,Privately Owned Vehicle-Passenger,Home
+1,1,9000146400,1,1,900014640001,Driver on trip,360,1,"2,000-3,999","1,000-1,999",30,12.5096333126165,1030,Privately Owned Vehicle-Driver,Work
+2,2,9000146400,1,1,900014640001,Driver on trip,,1,"4,000-9,999","2,000-3,999",40,11.2280919825979,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000146886,1,2,900014688602,Driver on trip,108,1,"2,000-3,999",500-999,90,86.2914853946551,1100,Privately Owned Vehicle-Driver,Work
+2,2,9000146886,1,2,900014688602,Driver on trip,65,2,100-499,"2,000-3,999",87,86.9297700435053,1418,Privately Owned Vehicle-Driver,Medical/Dental services
+3,3,9000146886,1,2,900014688602,Driver on trip,68,2,"2,000-3,999",100-499,7,0.946550652579242,1650,Privately Owned Vehicle-Driver,Social/Recreational
+4,4,9000146886,1,2,900014688602,Driver on trip,,2,100-499,"2,000-3,999",5,0.942821628340584,1805,Privately Owned Vehicle-Driver,Home
+1,1,9000146886,2,,,,437,1,"2,000-3,999","1,000-1,999",8,0.590428837787446,810,Bike,School/Daycare/Religious
+2,2,9000146886,2,,,,5,1,"1,000-1,999","2,000-3,999",10,0.895587321317589,1535,Bike,Medical/Dental services
+3,3,9000146886,2,,,Not driver on trip,113,2,"2,000-3,999","1,000-1,999",7,1.57986326911125,1550,Privately Owned Vehicle-Passenger,Medical/Dental services
+4,4,9000146886,2,2,900014688602,Not driver on trip,8,2,"1,000-1,999",100-499,7,0.693598508390305,1750,Privately Owned Vehicle-Passenger,Social/Recreational
+5,5,9000146886,2,2,900014688602,Not driver on trip,,2,100-499,"2,000-3,999",5,0.942821628340584,1805,Privately Owned Vehicle-Passenger,Home
+1,1,9000147231,1,2,900014723102,Driver on trip,60,1,"1,000-1,999","1,000-1,999",30,19.1827221876942,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000147231,1,2,900014723102,Driver on trip,,1,"1,000-1,999","2,000-3,999",45,19.3467992541952,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000147597,1,1,900014759701,Driver on trip,5,1,"2,000-3,999","1,000-1,999",15,4.62336855189559,1930,Privately Owned Vehicle-Driver,Meals
+2,2,9000147597,1,1,900014759701,Driver on trip,,1,"1,000-1,999","1,000-1,999",15,4.59105034182722,1950,Privately Owned Vehicle-Driver,Home
+1,1,9000148365,2,1,900014836501,Driver on trip,45,1,"4,000-9,999","4,000-9,999",15,1.53325046612803,1200,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000148365,2,1,900014836501,Driver on trip,20,1,500-999,"4,000-9,999",10,0.752641392169049,1300,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000148365,2,1,900014836501,Driver on trip,70,1,"10,000-24,999",500-999,20,1.74891236793039,1330,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000148365,2,1,900014836501,Driver on trip,,1,500-999,"4,000-9,999",20,1.36793039154755,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000148426,1,1,900014842601,Driver on trip,55,1,"1,000-1,999","1,000-1,999",20,8.50901180857675,1230,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000148426,1,1,900014842601,Driver on trip,,1,"1,000-1,999","1,000-1,999",30,6.48725916718459,1345,Privately Owned Vehicle-Driver,Home
+1,1,9000148814,1,1,900014881401,Driver on trip,105,1,"1,000-1,999",100-499,30,7.10938471100062,1600,Privately Owned Vehicle-Driver,Home
+2,2,9000148814,1,1,900014881401,Driver on trip,13,1,100-499,"2,000-3,999",22,5.74766935985084,1815,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000148814,1,1,900014881401,Driver on trip,,1,"2,000-3,999","1,000-1,999",20,2.35922933499068,1850,Privately Owned Vehicle-Driver,Home
+1,1,9000148867,1,1,900014886701,Driver on trip,,1,500-999,100-499,45,23.3356121814792,645,Privately Owned Vehicle-Driver,Home
+1,1,9000149320,1,1,900014932001,Driver on trip,25,1,"2,000-3,999",500-999,25,4.17402113113735,1430,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000149320,1,1,900014932001,Driver on trip,50,1,"1,000-1,999","2,000-3,999",20,1.75947793660659,1520,Privately Owned Vehicle-Driver,Meals
+3,3,9000149320,1,1,900014932001,Driver on trip,65,1,"4,000-9,999","2,000-3,999",25,4.25668116842759,1630,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000149320,1,1,900014932001,Driver on trip,,1,"1,000-1,999","2,000-3,999",15,0.916096954630205,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000149320,2,1,900014932001,Driver on trip,25,1,"2,000-3,999",500-999,25,4.17402113113735,1430,Privately Owned Vehicle-Driver,Medical/Dental services
+2,2,9000149320,2,1,900014932001,Driver on trip,45,1,"1,000-1,999","2,000-3,999",25,1.75947793660659,1520,Privately Owned Vehicle-Driver,Meals
+3,3,9000149320,2,1,900014932001,Driver on trip,65,1,"4,000-9,999","2,000-3,999",25,4.25668116842759,1630,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000149320,2,1,900014932001,Driver on trip,,1,"1,000-1,999","2,000-3,999",15,0.916096954630205,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000162501,1,2,900016250102,Driver on trip,0,2,100-499,"1,000-1,999",10,2.83840894965817,715,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000162501,1,2,900016250102,Driver on trip,130,1,"1,000-1,999",100-499,10,2.84400248601616,725,Privately Owned Vehicle-Driver,Home
+3,3,9000162501,1,2,900016250102,Driver on trip,0,2,100-499,"2,000-3,999",15,4.96954630205096,945,Privately Owned Vehicle-Driver,Medical/Dental services
+4,4,9000162501,1,2,900016250102,Driver on trip,140,1,"2,000-3,999",100-499,10,5.24735860783095,1000,Privately Owned Vehicle-Driver,Home
+5,5,9000162501,1,2,900016250102,Driver on trip,0,1,100-499,"2,000-3,999",10,4.96954630205096,1230,Privately Owned Vehicle-Driver,Medical/Dental services
+6,6,9000162501,1,2,900016250102,Driver on trip,85,2,"2,000-3,999",100-499,10,5.24735860783095,1240,Privately Owned Vehicle-Driver,Home
+7,7,9000162501,1,2,900016250102,Driver on trip,25,1,100-499,"1,000-1,999",10,2.83840894965817,1415,Privately Owned Vehicle-Driver,Transport someone
+8,8,9000162501,1,2,900016250102,Driver on trip,,2,"1,000-1,999",100-499,10,2.84400248601616,1450,Privately Owned Vehicle-Driver,Home
+1,1,9000162501,2,2,900016250102,Not driver on trip,160,2,100-499,"2,000-3,999",15,4.96954630205096,945,Privately Owned Vehicle-Passenger,Medical/Dental services
+2,2,9000162501,2,2,900016250102,Not driver on trip,,2,"2,000-3,999",100-499,10,5.24735860783095,1240,Privately Owned Vehicle-Passenger,Home
+1,1,9000162501,3,3,900016250103,Driver on trip,165,1,100-499,0-99,15,5.18272218769422,500,Privately Owned Vehicle-Driver,Work
+2,2,9000162501,3,,,Driver on trip,265,1,500-999,"2,000-3,999",5,1.86575512740833,800,Privately Owned Vehicle-Driver,Work
+3,3,9000162501,3,,,Driver on trip,85,1,"2,000-3,999",0-99,5,1.86575512740833,1230,Privately Owned Vehicle-Driver,Work
+4,4,9000162501,3,3,900016250103,Driver on trip,,1,500-999,100-499,15,5.15537600994406,1400,Privately Owned Vehicle-Driver,Home
+1,1,9000162501,4,2,900016250102,Not driver on trip,445,2,100-499,"1,000-1,999",10,2.83840894965817,715,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000162501,4,2,900016250102,Not driver on trip,,2,"1,000-1,999",100-499,10,2.84400248601616,1450,Privately Owned Vehicle-Passenger,Home
+1,1,9000162578,2,2,900016257802,Driver on trip,168,3,0-99,"1,000-1,999",14,6.65506525792418,933,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000162578,2,2,900016257802,Driver on trip,110,3,"1,000-1,999",500-999,5,0.509633312616532,1235,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000162578,2,2,900016257802,Driver on trip,,3,500-999,0-99,20,6.77563704164077,1430,Privately Owned Vehicle-Driver,Home
+1,1,9000162578,3,2,900016257802,Not driver on trip,168,3,0-99,"1,000-1,999",14,6.65506525792418,933,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000162578,3,2,900016257802,Not driver on trip,110,3,"1,000-1,999",500-999,5,0.509633312616532,1235,Privately Owned Vehicle-Passenger,Social/Recreational
+3,3,9000162578,3,2,900016257802,Not driver on trip,,3,500-999,0-99,20,6.77563704164077,1430,Privately Owned Vehicle-Passenger,Home
+1,1,9000162578,4,2,900016257802,Not driver on trip,168,3,0-99,"1,000-1,999",14,6.65506525792418,933,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000162578,4,2,900016257802,Not driver on trip,110,3,"1,000-1,999",500-999,5,0.509633312616532,1235,Privately Owned Vehicle-Passenger,Social/Recreational
+3,3,9000162578,4,2,900016257802,Not driver on trip,102,3,500-999,0-99,20,6.77563704164077,1430,Privately Owned Vehicle-Passenger,Home
+4,4,9000162578,4,1,900016257801,Not driver on trip,5,2,0-99,100-499,8,4.06152889993785,1632,Privately Owned Vehicle-Passenger,Shopping/Errands
+5,5,9000162578,4,1,900016257801,Not driver on trip,1,2,100-499,100-499,9,1.30391547545059,1645,Privately Owned Vehicle-Passenger,Shopping/Errands
+6,6,9000162578,4,1,900016257801,Not driver on trip,64,2,100-499,500-999,3,1.17339962709758,1655,Privately Owned Vehicle-Passenger,Social/Recreational
+7,7,9000162578,4,1,900016257801,Not driver on trip,,2,"1,000-1,999",0-99,21,6.74145431945308,1802,Privately Owned Vehicle-Passenger,Home
+1,1,9000163256,1,1,900016325601,Driver on trip,,1,500-999,100-499,27,3.45059042883779,1830,Privately Owned Vehicle-Driver,Work
+1,1,9000163372,1,1,900016337201,Not driver on trip,250,2,"2,000-3,999","2,000-3,999",15,1.63704164077066,1545,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000163372,1,1,900016337201,Not driver on trip,90,2,"2,000-3,999","4,000-9,999",20,3.5680546923555,2010,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+3,3,9000163372,1,1,900016337201,Not driver on trip,,2,"4,000-9,999","2,000-3,999",5,2.1597265382225,2200,Privately Owned Vehicle-Passenger,Social/Recreational
+1,1,9000163372,2,1,900016337201,Driver on trip,250,2,"2,000-3,999","2,000-3,999",15,1.63704164077066,1545,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000163372,2,1,900016337201,Driver on trip,90,2,"2,000-3,999","4,000-9,999",20,3.5680546923555,2010,Privately Owned Vehicle-Driver,School/Daycare/Religious
+3,3,9000163372,2,1,900016337201,Driver on trip,,2,"4,000-9,999","2,000-3,999",5,2.1597265382225,2200,Privately Owned Vehicle-Driver,Social/Recreational
+1,1,9000164148,1,1,900016414801,Driver on trip,182,2,"2,000-3,999",500-999,13,4.25854568054692,745,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000164148,1,1,900016414801,Driver on trip,84,2,500-999,500-999,6,1.12616532007458,1100,Privately Owned Vehicle-Driver,Meals
+3,3,9000164148,1,1,900016414801,Not driver on trip,110,2,500-999,500-999,10,0.991920447482909,1230,Privately Owned Vehicle-Passenger,Transport someone
+4,4,9000164148,1,1,900016414801,Not driver on trip,5,1,500-999,"2,000-3,999",15,4.71970167806091,1430,Privately Owned Vehicle-Passenger,Home
+5,5,9000164148,1,1,900016414801,Driver on trip,35,1,"2,000-3,999",500-999,10,4.25854568054692,1450,Privately Owned Vehicle-Driver,Social/Recreational
+6,6,9000164148,1,1,900016414801,Driver on trip,125,2,500-999,"2,000-3,999",15,4.71970167806091,1535,Privately Owned Vehicle-Driver,Home
+7,7,9000164148,1,1,900016414801,Driver on trip,5,2,"2,000-3,999","4,000-9,999",20,7.93225605966439,1755,Privately Owned Vehicle-Driver,Transport someone
+8,8,9000164148,1,1,900016414801,Driver on trip,,1,"4,000-9,999","2,000-3,999",20,6.25233064014916,1820,Privately Owned Vehicle-Driver,Home
+1,1,9000164148,2,,,Driver on trip,185,2,"1,000-1,999",100-499,55,26.6395276569298,1030,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000164148,2,,,Driver on trip,,2,100-499,"1,000-1,999",55,26.9670602858919,1430,Privately Owned Vehicle-Driver,Home
+1,1,9000164148,4,,,Not driver on trip,185,2,"1,000-1,999",100-499,55,26.6395276569298,1030,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000164148,4,,,Not driver on trip,,2,100-499,"1,000-1,999",55,26.9670602858919,1430,Privately Owned Vehicle-Passenger,Home
+1,1,9000164148,5,1,900016414801,Not driver on trip,182,2,"2,000-3,999",500-999,13,4.25854568054692,745,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000164148,5,1,900016414801,Not driver on trip,84,2,500-999,500-999,6,1.12616532007458,1100,Privately Owned Vehicle-Passenger,Meals
+3,3,9000164148,5,1,900016414801,Not driver on trip,175,2,500-999,500-999,10,0.991920447482909,1230,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000164148,5,1,900016414801,Not driver on trip,125,2,500-999,"2,000-3,999",15,4.71970167806091,1535,Privately Owned Vehicle-Passenger,Home
+5,5,9000164148,5,1,900016414801,Not driver on trip,,2,"2,000-3,999","4,000-9,999",20,7.93225605966439,1755,Privately Owned Vehicle-Passenger,Transport someone
+1,1,9000164498,1,1,900016449801,Driver on trip,15,1,"4,000-9,999","1,000-1,999",30,6.62274704785581,1330,Privately Owned Vehicle-Driver,Meals
+2,2,9000164498,1,1,900016449801,Driver on trip,60,1,"1,000-1,999","2,000-3,999",30,7.09073958980733,1415,Privately Owned Vehicle-Driver,Home
+3,3,9000164498,1,1,900016449801,Driver on trip,400,1,"4,000-9,999","1,000-1,999",35,16.1336233685519,1545,Privately Owned Vehicle-Driver,Work
+4,4,9000164498,1,1,900016449801,Driver on trip,,1,"2,000-3,999","2,000-3,999",30,16.2050963331262,2300,Privately Owned Vehicle-Driver,Home
+1,1,9000164983,1,4,900016498304,Driver on trip,560,1,100-499,500-999,10,4.42635177128651,830,Privately Owned Vehicle-Driver,Work
+2,2,9000164983,1,4,900016498304,Driver on trip,,1,500-999,100-499,10,4.42200124300808,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000165233,1,5,900016523305,Driver on trip,135,1,0-99,500-999,45,29.4406463642014,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000165233,1,5,900016523305,Driver on trip,,1,"2,000-3,999",0-99,45,29.744561839652,1300,Privately Owned Vehicle-Driver,Home
+1,1,9000165687,1,1,900016568701,Driver on trip,56,2,"1,000-1,999","1,000-1,999",4,4.13797389683033,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000165687,1,2,900016568702,Driver on trip,,2,"1,000-1,999",100-499,5,4.16780609073959,1200,Privately Owned Vehicle-Driver,Home
+1,1,9000165687,2,1,900016568701,Not driver on trip,56,2,"1,000-1,999","1,000-1,999",4,4.13797389683033,1100,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000165687,2,2,900016568702,Not driver on trip,,2,"1,000-1,999",100-499,5,4.16780609073959,1200,Privately Owned Vehicle-Passenger,Home
+1,1,9000165767,1,2,900016576702,Driver on trip,100,2,"2,000-3,999",500-999,20,6.6674953387197,1700,Privately Owned Vehicle-Driver,Meals
+2,2,9000165767,1,2,900016576702,Driver on trip,,2,500-999,"2,000-3,999",20,4.74766935985084,1900,Privately Owned Vehicle-Driver,Home
+1,1,9000165767,2,2,900016576702,Not driver on trip,100,2,"2,000-3,999",500-999,20,6.6674953387197,1700,Privately Owned Vehicle-Passenger,Meals
+2,2,9000165767,2,2,900016576702,Not driver on trip,,2,500-999,"2,000-3,999",20,4.74766935985084,1900,Privately Owned Vehicle-Passenger,Home
+1,1,9000166291,1,1,900016629101,Driver on trip,30,1,"1,000-1,999",0-99,120,71.302672467371,600,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000166291,1,1,900016629101,Driver on trip,,2,0-99,"1,000-1,999",120,70.2169049098819,830,Privately Owned Vehicle-Driver,Home
+1,1,9000169206,1,1,900016920601,Driver on trip,122,1,"2,000-3,999","2,000-3,999",8,3.05593536357986,800,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000169206,1,1,900016920601,Driver on trip,40,1,"1,000-1,999","2,000-3,999",8,1.08576755748912,1010,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000169206,1,1,900016920601,Driver on trip,,1,"2,000-3,999","2,000-3,999",6,2.57551274083282,1058,Privately Owned Vehicle-Driver,Home
+1,1,9000169206,2,2,900016920602,Driver on trip,10,1,"2,000-3,999","2,000-3,999",5,1.72715972653822,745,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000169206,2,2,900016920602,Driver on trip,85,1,"2,000-3,999","2,000-3,999",15,3.03418272218769,800,Privately Owned Vehicle-Driver,Social/Recreational
+3,3,9000169206,2,2,900016920602,Driver on trip,65,1,"1,000-1,999","2,000-3,999",10,2.76507147296457,940,Privately Owned Vehicle-Driver,Social/Recreational
+4,4,9000169206,2,2,900016920602,Driver on trip,150,1,"2,000-3,999","2,000-3,999",5,1.04661280298322,1055,Privately Owned Vehicle-Driver,Social/Recreational
+5,5,9000169206,2,2,900016920602,Driver on trip,,1,"1,000-1,999","2,000-3,999",15,1.85829707893101,1330,Privately Owned Vehicle-Driver,Home
+1,1,9000169307,2,2,900016930702,Driver on trip,45,2,"1,000-1,999","1,000-1,999",15,4.19080174021131,1200,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000169307,2,2,900016930702,Driver on trip,,2,"2,000-3,999","1,000-1,999",15,4.21379738968303,1300,Privately Owned Vehicle-Driver,Home
+1,1,9000169307,3,2,900016930702,Not driver on trip,45,2,"1,000-1,999","1,000-1,999",15,4.19080174021131,1200,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000169307,3,2,900016930702,Not driver on trip,,2,"2,000-3,999","1,000-1,999",15,4.21379738968303,1300,Privately Owned Vehicle-Passenger,Home
+1,1,9000169533,1,1,900016953301,Not driver on trip,40,2,500-999,100-499,25,1.24176507147296,1330,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000169533,1,1,900016953301,Not driver on trip,,2,0-99,100-499,10,1.26786824114357,1435,Privately Owned Vehicle-Passenger,Home
+1,1,9000169533,2,1,900016953301,Driver on trip,40,2,500-999,100-499,25,1.24176507147296,1330,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000169533,2,1,900016953301,Driver on trip,,2,0-99,100-499,10,1.26786824114357,1435,Privately Owned Vehicle-Driver,Home
+1,1,9000169604,1,,,,,2,500-999,"1,000-1,999",90,3.0,1430,Walk,Social/Recreational
+1,1,9000169604,2,,,,,2,500-999,"1,000-1,999",90,3.0,1430,Walk,Social/Recreational
+1,1,9000169866,1,1,900016986601,Driver on trip,235,1,"4,000-9,999","4,000-9,999",5,1.08328154133002,820,Privately Owned Vehicle-Driver,Work
+2,2,9000169866,1,1,900016986601,Driver on trip,57,1,"4,000-9,999","4,000-9,999",5,1.08328154133002,1220,Privately Owned Vehicle-Driver,Home
+3,3,9000169866,1,1,900016986601,Driver on trip,208,1,"4,000-9,999","4,000-9,999",5,1.08328154133002,1322,Privately Owned Vehicle-Driver,Work
+4,4,9000169866,1,1,900016986601,Driver on trip,80,1,"4,000-9,999","4,000-9,999",5,1.08328154133002,1655,Privately Owned Vehicle-Driver,Home
+5,5,9000169866,1,1,900016986601,Driver on trip,145,1,"4,000-9,999",100-499,25,12.3847110006215,1820,Privately Owned Vehicle-Driver,Social/Recreational
+6,6,9000169866,1,1,900016986601,Driver on trip,,1,100-499,"4,000-9,999",35,12.1733996270976,2110,Privately Owned Vehicle-Driver,Home
+1,1,9000170823,1,1,900017082301,Driver on trip,10,2,500-999,"1,000-1,999",5,1.39589807333748,730,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000170823,1,1,900017082301,Driver on trip,450,1,"2,000-3,999","1,000-1,999",15,4.23492852703543,745,Privately Owned Vehicle-Driver,Work
+3,3,9000170823,1,1,900017082301,Driver on trip,195,1,"2,000-3,999","1,000-1,999",15,5.52330640149161,1530,Privately Owned Vehicle-Driver,Home
+4,4,9000170823,1,1,900017082301,Not driver on trip,168,3,500-999,100-499,32,17.0975761342449,1900,Privately Owned Vehicle-Passenger,Social/Recreational
+5,5,9000170823,1,1,900017082301,Not driver on trip,,3,100-499,"1,000-1,999",25,18.7141081417029,2220,Privately Owned Vehicle-Passenger,Home
+1,1,9000170823,2,2,900017082302,Driver on trip,390,1,500-999,0-99,20,5.94530764449969,710,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000170823,2,2,900017082302,Driver on trip,160,1,0-99,"1,000-1,999",20,6.39216904909882,1400,Privately Owned Vehicle-Driver,Home
+3,3,9000170823,2,2,900017082302,Driver on trip,15,1,500-999,"1,000-1,999",5,1.39589807333748,1700,Privately Owned Vehicle-Driver,School/Daycare/Religious
+4,4,9000170823,2,2,900017082302,Driver on trip,95,2,"2,000-3,999","1,000-1,999",5,1.39216904909882,1720,Privately Owned Vehicle-Driver,Home
+5,5,9000170823,2,1,900017082301,Driver on trip,168,3,500-999,100-499,32,17.0975761342449,1900,Privately Owned Vehicle-Driver,Social/Recreational
+6,6,9000170823,2,1,900017082301,Driver on trip,,3,100-499,"1,000-1,999",25,18.7141081417029,2220,Privately Owned Vehicle-Driver,Home
+1,1,9000171367,1,3,900017136703,Driver on trip,90,1,"2,000-3,999",500-999,10,6.69546302050963,820,Privately Owned Vehicle-Driver,Meals
+2,2,9000171367,1,3,900017136703,Driver on trip,5,1,500-999,500-999,15,1.19453076444997,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000171367,1,3,900017136703,Driver on trip,45,1,100-499,500-999,5,0.617775015537601,1020,Privately Owned Vehicle-Driver,Meals
+4,4,9000171367,1,3,900017136703,Driver on trip,280,1,"1,000-1,999","1,000-1,999",10,4.30950901180858,1110,Privately Owned Vehicle-Driver,Home
+5,5,9000171367,1,3,900017136703,Driver on trip,260,1,"2,000-3,999",100-499,10,5.88502175264139,1600,Privately Owned Vehicle-Driver,Social/Recreational
+6,6,9000171367,1,3,900017136703,Driver on trip,,1,100-499,"1,000-1,999",15,6.93039154754506,2030,Privately Owned Vehicle-Driver,Home
+1,1,9000171601,1,1,900017160101,Driver on trip,575,1,"2,000-3,999",0-99,10,11.2224984462399,730,Privately Owned Vehicle-Driver,Work
+2,2,9000171601,1,1,900017160101,Driver on trip,,1,0-99,"1,000-1,999",10,10.6382846488502,1715,Privately Owned Vehicle-Driver,Home
+1,1,9000172096,1,1,900017209601,Driver on trip,,3,100-499,"4,000-9,999",15,7.35425730267247,1700,Privately Owned Vehicle-Driver,Meals
+1,1,9000172096,2,1,900017209601,Not driver on trip,75,3,100-499,"4,000-9,999",15,7.35425730267247,1700,Privately Owned Vehicle-Passenger,Meals
+2,2,9000172096,2,1,900017209601,Not driver on trip,,3,"2,000-3,999",500-999,15,7.36544437538844,1830,Privately Owned Vehicle-Passenger,Home
+1,1,9000172096,3,1,900017209601,Not driver on trip,75,3,100-499,"4,000-9,999",15,7.35425730267247,1700,Privately Owned Vehicle-Passenger,Meals
+2,2,9000172096,3,1,900017209601,Not driver on trip,,3,"2,000-3,999",500-999,15,7.36544437538844,1830,Privately Owned Vehicle-Passenger,Home
+1,1,9000172438,1,1,900017243801,Driver on trip,60,2,"1,000-1,999",500-999,15,12.2454940957116,630,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000172438,1,1,900017243801,Driver on trip,255,1,100-499,"1,000-1,999",30,13.3126165320075,745,Privately Owned Vehicle-Driver,Home
+3,3,9000172438,1,1,900017243801,Driver on trip,135,1,"1,000-1,999",500-999,15,12.2454940957116,1230,Privately Owned Vehicle-Driver,Transport someone
+4,4,9000172438,1,1,900017243801,Driver on trip,,2,100-499,"1,000-1,999",20,13.3126165320075,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000172438,3,1,900017243801,Not driver on trip,495,2,"1,000-1,999",500-999,15,12.2454940957116,630,Privately Owned Vehicle-Passenger,Transport someone
+2,2,9000172438,3,1,900017243801,Not driver on trip,,2,100-499,"1,000-1,999",20,13.3126165320075,1500,Privately Owned Vehicle-Passenger,Home
+1,1,9000172658,1,1,900017265801,Driver on trip,5,1,100-499,100-499,10,3.65630826600373,1330,Privately Owned Vehicle-Driver,Meals
+2,2,9000172658,1,1,900017265801,Driver on trip,,1,100-499,100-499,10,3.64512119328776,1345,Privately Owned Vehicle-Driver,Home
+1,1,9000172658,2,,,Not driver on trip,60,3,100-499,"1,000-1,999",30,7.62212554381603,1230,Privately Owned Vehicle-Passenger,Meals
+2,2,9000172658,2,,,Not driver on trip,145,4,"2,000-3,999",100-499,20,3.0497203231821,1400,Privately Owned Vehicle-Passenger,Social/Recreational
+3,3,9000172658,2,,,Not driver on trip,450,4,100-499,0-99,15,1.92914853946551,1645,Privately Owned Vehicle-Passenger,Meals
+4,4,9000172658,2,,,Not driver on trip,,3,0-99,100-499,15,7.15848353014295,30,Privately Owned Vehicle-Passenger,Home
+1,1,9000173653,1,2,900017365302,Driver on trip,335,1,500-999,"1,000-1,999",20,12.669359850839,740,Privately Owned Vehicle-Driver,Work
+2,2,9000173653,1,2,900017365302,Driver on trip,42,1,"1,000-1,999","1,000-1,999",25,12.4039776258546,1335,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000173653,1,2,900017365302,Driver on trip,60,1,500-999,"1,000-1,999",8,1.95152268489745,1442,Privately Owned Vehicle-Driver,Medical/Dental services
+4,4,9000173653,1,2,900017365302,Driver on trip,26,1,500-999,500-999,26,7.32318210068365,1550,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000173653,1,2,900017365302,Driver on trip,40,1,100-499,"1,000-1,999",16,6.67122436295836,1642,Privately Owned Vehicle-Driver,Home
+6,6,9000173653,1,2,900017365302,Driver on trip,9,1,500-999,"1,000-1,999",4,0.38036047234307,1738,Privately Owned Vehicle-Driver,Shopping/Errands
+7,7,9000173653,1,2,900017365302,Driver on trip,11,1,"1,000-1,999","1,000-1,999",6,0.641392169049099,1751,Privately Owned Vehicle-Driver,Shopping/Errands
+8,8,9000173653,1,2,900017365302,Driver on trip,3,1,500-999,"1,000-1,999",10,3.06587942821628,1808,Privately Owned Vehicle-Driver,Meals
+9,9,9000173653,1,2,900017365302,Driver on trip,,1,500-999,"1,000-1,999",16,3.10565568676196,1821,Privately Owned Vehicle-Driver,Home
+1,1,9000173653,2,1,900017365301,Driver on trip,505,1,500-999,500-999,20,6.4344313238036,745,Privately Owned Vehicle-Driver,Work
+2,2,9000173653,2,1,900017365301,Driver on trip,,1,100-499,"1,000-1,999",20,6.44064636420137,1630,Privately Owned Vehicle-Driver,Home
+1,1,9000173901,2,2,900017390102,Driver on trip,60,4,"1,000-1,999",500-999,15,3.15599751398384,845,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000173901,2,2,900017390102,Driver on trip,,1,"1,000-1,999","1,000-1,999",15,3.13735239279055,1000,Privately Owned Vehicle-Driver,Home
+1,1,9000208717,1,1,900020871701,Driver on trip,615,1,"2,000-3,999",500-999,30,12.9204474829086,600,Privately Owned Vehicle-Driver,Work
+2,2,9000208717,1,1,900020871701,Driver on trip,,1,100-499,"1,000-1,999",45,13.4412678682411,1645,Privately Owned Vehicle-Driver,Home
+1,1,9000209091,1,1,900020909101,Driver on trip,0,2,"2,000-3,999","4,000-9,999",20,9.54692355500311,1810,Privately Owned Vehicle-Driver,Meals
+2,2,9000209091,1,,,,130,2,"4,000-9,999","4,000-9,999",10,,1830,Walk,Social/Recreational
+3,3,9000209091,1,1,900020909101,Driver on trip,,2,"4,000-9,999","2,000-3,999",20,12.0770665009323,2050,Privately Owned Vehicle-Driver,Home
+1,1,9000209091,2,1,900020909101,Not driver on trip,0,2,"2,000-3,999","4,000-9,999",20,9.54692355500311,1810,Privately Owned Vehicle-Passenger,Meals
+2,2,9000209091,2,,,,130,2,"4,000-9,999","4,000-9,999",10,,1830,Walk,Social/Recreational
+3,3,9000209091,2,1,900020909101,Not driver on trip,,2,"4,000-9,999","2,000-3,999",20,12.0770665009323,2050,Privately Owned Vehicle-Passenger,Home
+1,1,9000209254,1,1,900020925401,Driver on trip,15,1,"4,000-9,999","2,000-3,999",5,0.54816656308266,1400,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000209254,1,1,900020925401,Driver on trip,,1,"4,000-9,999","2,000-3,999",5,0.54816656308266,1420,Privately Owned Vehicle-Driver,Home
+1,1,9000209801,1,2,900020980102,Driver on trip,8,1,"1,000-1,999","1,000-1,999",7,1.85891858297079,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000209801,1,2,900020980102,Driver on trip,20,1,"1,000-1,999","1,000-1,999",5,1.00310752019888,1115,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000209801,1,2,900020980102,Driver on trip,35,1,"1,000-1,999","1,000-1,999",10,2.81354878806712,1140,Privately Owned Vehicle-Driver,Home
+4,4,9000209801,1,2,900020980102,Driver on trip,295,1,"1,000-1,999",0-99,40,19.3648228713487,1225,Privately Owned Vehicle-Driver,Social/Recreational
+5,5,9000209801,1,2,900020980102,Driver on trip,,1,500-999,"1,000-1,999",45,19.0857675574891,1800,Privately Owned Vehicle-Driver,Home
+1,1,9000211615,1,1,900021161501,Driver on trip,,1,100-499,100-499,15,6.87818520820385,730,Privately Owned Vehicle-Driver,Work
+2,2,9000211615,1,,,,,1,0-99,"4,000-9,999",,27.8974518334369,,Public Transit,Work
+3,3,9000211615,1,1,900021161501,Driver on trip,,1,"2,000-3,999",100-499,45,30.9285270354257,1730,Privately Owned Vehicle-Driver,Home
+1,1,9000211615,2,2,900021161502,Driver on trip,390,1,100-499,100-499,30,11.691733996271,700,Privately Owned Vehicle-Driver,Work
+2,2,9000211615,2,2,900021161502,Driver on trip,,1,100-499,100-499,30,12.1802361715351,1400,Privately Owned Vehicle-Driver,Home
+1,1,9000211898,3,3,900021189803,Driver on trip,470,2,0-99,,30,23.650093225606,700,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000211898,3,3,900021189803,Driver on trip,50,2,0-99,0-99,20,6.84338098197638,1520,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000211898,3,3,900021189803,Driver on trip,,2,0-99,0-99,30,20.7787445618396,1630,Privately Owned Vehicle-Driver,Home
+1,1,9000211898,4,3,900021189803,Not driver on trip,470,2,0-99,,30,23.650093225606,700,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000211898,4,3,900021189803,Not driver on trip,50,2,0-99,0-99,20,6.84338098197638,1520,Privately Owned Vehicle-Passenger,Shopping/Errands
+3,3,9000211898,4,3,900021189803,Not driver on trip,,2,0-99,0-99,30,20.7787445618396,1630,Privately Owned Vehicle-Passenger,Home
+1,1,9000211982,1,,,,0,1,0-99,100-499,15,0.479801118707272,1600,Walk,Social/Recreational
+2,2,9000211982,1,,,,,1,100-499,0-99,15,0.479801118707272,1615,Walk,Home
+1,1,9000211982,2,1,900021198201,Driver on trip,90,1,0-99,500-999,30,9.28651336233686,1200,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000211982,2,1,900021198201,Driver on trip,,1,100-499,0-99,30,9.44810441267868,1400,Privately Owned Vehicle-Driver,Home
+1,1,9000212632,1,1,900021263201,Not driver on trip,40,1,100-499,0-99,20,12.0403977625855,1600,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000212632,1,1,900021263201,Not driver on trip,,1,500-999,100-499,25,11.91671845867,1700,Privately Owned Vehicle-Passenger,Home
+1,1,9000212632,2,2,900021263202,Not driver on trip,30,2,100-499,100-499,30,8.83530142945929,1030,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000212632,2,,,,120,2,100-499,100-499,30,9.11435674331883,1130,Other,Home
+3,3,9000212632,2,,,Driver on trip,300,2,100-499,,150,118.247980111871,1400,Privately Owned Vehicle-Driver,Social/Recreational
+4,4,9000212632,2,,,Driver on trip,,2,,100-499,135,118.270354257303,2130,Privately Owned Vehicle-Driver,Home
+1,1,9000212632,3,,,Not driver on trip,300,2,100-499,,150,118.247980111871,1400,Privately Owned Vehicle-Passenger,Social/Recreational
+2,2,9000212632,3,,,Not driver on trip,,2,,100-499,135,118.270354257303,2130,Privately Owned Vehicle-Passenger,Home
+1,1,9000212920,1,1,900021292001,Driver on trip,0,1,0-99,100-499,60,52.6923555003108,915,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000212920,1,1,900021292001,Driver on trip,190,2,"1,000-1,999","1,000-1,999",35,27.1454319453076,1015,Privately Owned Vehicle-Driver,Medical/Dental services
+3,3,9000212920,1,1,900021292001,Driver on trip,0,2,"2,000-3,999","1,000-1,999",60,27.06629939,1400,Privately Owned Vehicle-Driver,Transport someone
+4,4,9000212920,1,1,900021292001,Driver on trip,,1,"1,000-1,999",0-99,65,173.032939714108,1500,Privately Owned Vehicle-Driver,Home
+1,1,9000213115,1,1,900021311501,Driver on trip,105,2,0-99,0-99,15,8.41454319453076,900,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000213115,1,1,900021311501,Driver on trip,5,2,100-499,0-99,15,8.55376009944065,1100,Privately Owned Vehicle-Driver,Home
+3,3,9000213115,1,1,900021311501,Driver on trip,119,2,0-99,0-99,41,29.9216904909882,1120,Privately Owned Vehicle-Driver,Social/Recreational
+4,4,9000213115,1,1,900021311501,Driver on trip,,2,100-499,0-99,40,30.0789310130516,1400,Privately Owned Vehicle-Driver,Home
+1,1,9000213115,2,1,900021311501,Not driver on trip,105,2,0-99,0-99,15,8.41454319453076,900,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000213115,2,1,900021311501,Not driver on trip,5,2,100-499,0-99,15,8.55376009944065,1100,Privately Owned Vehicle-Passenger,Home
+3,3,9000213115,2,1,900021311501,Not driver on trip,119,2,0-99,0-99,41,29.9216904909882,1120,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000213115,2,1,900021311501,Not driver on trip,,2,100-499,0-99,40,30.0789310130516,1400,Privately Owned Vehicle-Passenger,Home
+1,1,9000213245,1,,,,,1,"25,000-999,999","25,000-999,999",40,9.21504039776259,600,Public Transit,Work
+1,1,9000213285,1,1,900021328501,Driver on trip,105,1,0-99,100-499,15,11.1758856432567,800,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000213285,1,1,900021328501,Driver on trip,,1,100-499,0-99,15,10.8626476072094,1000,Privately Owned Vehicle-Driver,Home
+1,1,9000213343,1,1,900021334301,Driver on trip,40,1,"2,000-3,999",500-999,10,4.75699192044748,1050,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000213343,1,1,900021334301,Driver on trip,40,1,"1,000-1,999",100-499,10,3.20509633312617,1140,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000213343,1,1,900021334301,Driver on trip,5,1,500-999,500-999,20,3.45618396519577,1230,Privately Owned Vehicle-Driver,Shopping/Errands
+4,4,9000213343,1,1,900021334301,Driver on trip,,1,100-499,"1,000-1,999",10,4.00870105655687,1255,Privately Owned Vehicle-Driver,Home
+1,1,9000213343,2,2,900021334302,Driver on trip,60,1,"2,000-3,999","1,000-1,999",15,8.63206960845245,845,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000213343,2,2,900021334302,Driver on trip,35,1,"2,000-3,999","1,000-1,999",10,3.21379738968303,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000213343,2,2,900021334302,Driver on trip,15,1,0-99,"1,000-1,999",10,4.26289620882536,1045,Privately Owned Vehicle-Driver,Home
+4,4,9000213343,2,2,900021334302,Driver on trip,55,1,"2,000-3,999",500-999,10,4.49347420758235,1110,Privately Owned Vehicle-Driver,Shopping/Errands
+5,5,9000213343,2,2,900021334302,Driver on trip,5,1,"1,000-1,999","1,000-1,999",10,8.26911124922312,1215,Privately Owned Vehicle-Driver,Shopping/Errands
+6,6,9000213343,2,2,900021334302,Driver on trip,,1,"2,000-3,999","1,000-1,999",10,3.34866376631448,1230,Privately Owned Vehicle-Driver,Home
+1,1,9000213691,1,1,900021369101,Driver on trip,60,2,"2,000-3,999","1,000-1,999",15,5.0627719080174,1015,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000213691,1,1,900021369101,Driver on trip,,2,"2,000-3,999","1,000-1,999",12,5.08017402113114,1130,Privately Owned Vehicle-Driver,Home
+1,1,9000213691,2,1,900021369101,Not driver on trip,60,2,"2,000-3,999","1,000-1,999",15,5.0627719080174,1015,Privately Owned Vehicle-Passenger,Shopping/Errands
+2,2,9000213691,2,1,900021369101,Not driver on trip,,2,"2,000-3,999","1,000-1,999",12,5.08017402113114,1130,Privately Owned Vehicle-Passenger,Home
+1,1,9000214670,1,1,900021467001,Driver on trip,60,1,,100-499,55,24.9098819142324,1100,Privately Owned Vehicle-Driver,Shopping/Errands
+2,2,9000214670,1,1,900021467001,Driver on trip,,1,0-99,0-99,65,24.8986948415165,1255,Privately Owned Vehicle-Driver,Home
+1,1,9000214795,2,4,900021479504,Driver on trip,180,1,"1,000-1,999","4,000-9,999",60,12.8924798011187,1200,Privately Owned Vehicle-Driver,Work
+2,2,9000214795,2,4,900021479504,Driver on trip,,1,"4,000-9,999","1,000-1,999",60,12.9540087010566,1600,Privately Owned Vehicle-Driver,Home
+1,1,9000215357,1,1,900021535701,Driver on trip,195,2,"1,000-1,999","1,000-1,999",15,4.16283405842138,1700,Privately Owned Vehicle-Driver,Social/Recreational
+2,2,9000215357,1,1,900021535701,Driver on trip,,2,"1,000-1,999","2,000-3,999",15,4.3952765692977,2030,Privately Owned Vehicle-Driver,Home
+1,1,9000215357,3,2,900021535702,Driver on trip,265,1,"1,000-1,999","1,000-1,999",5,0.580484773151026,830,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000215357,3,2,900021535702,Driver on trip,230,1,"1,000-1,999","1,000-1,999",10,1.64698570540709,1300,Privately Owned Vehicle-Driver,Home
+3,3,9000215357,3,2,900021535702,Driver on trip,,1,"2,000-3,999","2,000-3,999",10,1.86140459912989,1700,Privately Owned Vehicle-Driver,Home
+1,1,9000215357,4,1,900021535701,Not driver on trip,430,2,"1,000-1,999",100-499,5,0.681789931634556,720,Privately Owned Vehicle-Passenger,School/Daycare/Religious
+2,2,9000215357,4,,,,,1,"1,000-1,999","2,000-3,999",10,0.681789931634556,1435,Walk,Home
+1,1,9000215357,5,,,,415,20,"1,000-1,999",100-499,10,1.40646364201367,830,School Bus,School/Daycare/Religious
+2,2,9000215357,5,,,,75,20,100-499,"2,000-3,999",10,1.33685518955873,1535,School Bus,Home
+3,3,9000215357,5,1,900021535701,Not driver on trip,195,2,"1,000-1,999","1,000-1,999",15,4.16283405842138,1700,Privately Owned Vehicle-Passenger,Social/Recreational
+4,4,9000215357,5,1,900021535701,Not driver on trip,,2,"1,000-1,999","2,000-3,999",15,4.3952765692977,2030,Privately Owned Vehicle-Passenger,Home
+1,1,9000217124,1,1,900021712401,Driver on trip,545,1,100-499,"4,000-9,999",40,12.5705407085146,720,Privately Owned Vehicle-Driver,Work
+2,2,9000217124,1,1,900021712401,Driver on trip,,1,"2,000-3,999",100-499,40,12.5767557489124,1705,Privately Owned Vehicle-Driver,Home
+1,1,9000217124,2,3,900021712403,Driver on trip,10,3,100-499,100-499,10,4.0366687383468,730,Privately Owned Vehicle-Driver,Transport someone
+2,2,9000217124,2,3,900021712403,Driver on trip,520,1,100-499,100-499,10,4.03418272218769,750,Privately Owned Vehicle-Driver,Home
+3,3,9000217124,2,3,900021712403,Driver on trip,0,1,100-499,100-499,10,4.0366687383468,1640,Privately Owned Vehicle-Driver,Transport someone
+4,4,9000217124,2,3,900021712403,Driver on trip,,3,100-499,100-499,10,4.03418272218769,1650,Privately Owned Vehicle-Driver,Home
+1,1,9000217153,1,2,900021715302,Driver on trip,115,1,100-499,0-99,5,1.87632069608452,800,Privately Owned Vehicle-Driver,School/Daycare/Religious
+2,2,9000217153,1,2,900021715302,Driver on trip,24,1,500-999,0-99,6,1.5288999378496,1000,Privately Owned Vehicle-Driver,Shopping/Errands
+3,3,9000217153,1,2,900021715302,Driver on trip,,1,500-999,100-499,10,3.34493474207582,1030,Privately Owned Vehicle-Driver,Home
+1,1,9000217682,1,,,,,2,100-499,100-499,31,1.0,1159,Walk,Shopping/Errands
+1,1,9000217682,2,,,,,2,100-499,100-499,31,1.0,1159,Walk,Shopping/Errands
+1,1,9000217741,1,2,900021774102,Driver on trip,120,1,100-499,"1,000-1,999",40,38.7563704164077,800,Privately Owned Vehicle-Driver,Work
+2,2,9000217741,1,2,900021774102,Driver on trip,40,1,"1,000-1,999","2,000-3,999",35,10.6009944064636,1040,Privately Owned Vehicle-Driver,Work
+3,3,9000217741,1,2,900021774102,Driver on trip,,1,"2,000-3,999",100-499,60,39.5898073337477,1155,Privately Owned Vehicle-Driver,Home
+1,1,9000217741,2,2,900021774102,Driver on trip,60,2,100-499,"1,000-1,999",60,38.7563704164077,845,Privately Owned Vehicle-Driver,Work
+2,2,9000217741,2,2,900021774102,Driver on trip,30,1,"1,000-1,999","2,000-3,999",30,10.6009944064636,1045,Privately Owned Vehicle-Driver,Work
+3,3,9000217741,2,2,900021774102,Driver on trip,,1,"2,000-3,999",100-499,40,39.5898073337477,1145,Privately Owned Vehicle-Driver,Home
+1,1,9000217741,3,,,,450,1,100-499,100-499,30,1.29459291485395,700,Bike,School/Daycare/Religious
+2,2,9000217741,3,,,,,1,"1,000-1,999",100-499,35,1.48850217526414,1500,Bike,Home
+1,1,9000217741,4,2,900021774102,Driver on trip,60,1,100-499,"1,000-1,999",75,38.7563704164077,830,Privately Owned Vehicle-Driver,Work
+2,2,9000217741,4,2,900021774102,Driver on trip,30,1,"1,000-1,999","2,000-3,999",30,10.6009944064636,1045,Privately Owned Vehicle-Driver,Work
+3,3,9000217741,4,2,900021774102,Driver on trip,,1,"2,000-3,999",100-499,65,39.5898073337477,1145,Privately Owned Vehicle-Driver,Home
+1,1,9000217741,5,,,,465,1,100-499,100-499,30,2.21317588564326,730,School Bus,School/Daycare/Religious
+2,2,9000217741,5,,,,,20,0-99,100-499,15,2.19950279676818,1545,School Bus,Home

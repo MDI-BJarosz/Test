@@ -1,0 +1,6 @@
+boto3
+pandas
+pyyaml
+google-adk
+litellm
+jupyter

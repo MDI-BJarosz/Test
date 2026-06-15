@@ -1,0 +1,122 @@
+# Survey Helper Configuration
+# IMPORTANT: Do not commit this file with your actual credentials!
+
+# AWS Bedrock Configuration
+# Option 1 (RECOMMENDED): Use AWS Profile from ~/.aws/credentials
+AWS_PROFILE: "userprofile"  # Name of your AWS profile (more secure)
+AWS_REGION: "us-east-1"  # Change to your preferred region
+
+# Bedrock Model ID - Choose your Claude model
+BEDROCK_MODEL_ID: "us.anthropic.claude-3-7-sonnet-20250219-v1:0"
+#BEDROCK_MODEL_ID : "us.anthropic.claude-3-5-haiku-20241022-v1:0"
+
+# Note: Request model access in AWS Bedrock Console before running
+# Console → Bedrock → Model access → Manage model access → Enable Claude models
+
+# ==============================================================================
+# DATASET SELECTION
+# ==============================================================================
+# Switch between datasets by changing this value to 'tdsc' or 'nhts'
+DATASET_TYPE: "tdsc"
+
+# ==============================================================================
+# TDSC DATASET CONFIGURATION
+# ==============================================================================
+TDSC:
+  # Data file paths
+  HOUSEHOLDS_FILE: "inputs/tdsc/households.csv"
+  TRIPS_FILE: "inputs/tdsc/trips.csv"
+
+  # Valid transportation modes from survey data (all unique values)
+  mode_options:
+    - "bike"
+    - "bikeshare"
+    - "bus"
+    - "carpool"
+    - "carpool_for lunch"
+    - "carpool_lunch"
+    - "carpool_to lunch"
+    - "carpool_to work"
+    - "carpool_w/ friend to work"
+    - "drove_alone"
+    - "friend/co_worker carpool"
+    - "friend_carpool to work"
+    - "friend_picked me up"
+    - "not_a_trip"
+    - "pilot_ebike"
+    - "scootershare"
+    - "shared_ride"
+    - "skateboard"
+    - "taxi"
+    - "the_friend who drives us to work was running errands after the shift before dropping me off. not a trip of mine."
+    - "train"
+    - "train,_bus and walk"
+    - "train_and pilot e-bike"
+    - "walk"
+    - "work_vehicle"
+
+  # Valid trip purposes from survey data (English only)
+  purpose_options:
+    - "bank"
+    - "break"
+    - "church"
+    - "community_garden"
+    - "community_meeting"
+    - "community_walk"
+    - "entertainment"
+    - "exercise"
+    - "friend_was running errands before dropping me off after work"
+    - "gardening"
+    - "gas"
+    - "home"
+    - "lunch_break"
+    - "meal"
+    - "meeting_bike"
+    - "multiple_errands, etc."
+    - "no_travel"
+    - "on_the way home"
+    - "personal_med"
+    - "pick_drop"
+    - "religious"
+    - "school"
+    - "shopping"
+    - "transit_transfer"
+    - "visit_a friend"
+    - "visiting"
+    - "work"
+    - "work_- lunch break"
+    - "work_break - short walk"
+    - "work_travel"
+
+# ==============================================================================
+# NHTS DATASET CONFIGURATION
+# ==============================================================================
+NHTS:
+  # Data file paths
+  HOUSEHOLD_FILE: "inputs/nhts/household.csv"
+  PERSON_FILE: "inputs/nhts/person.csv"
+  TRIP_FILE: "inputs/nhts/trip.csv"
+  VEHICLE_FILE: "inputs/nhts/vehicle.csv"
+
+  # Valid transportation modes from NHTS survey
+  mode_options:
+    - "Walk"
+    - "Bike"
+    - "Privately Owned Vehicle-Driver"
+    - "Privately Owned Vehicle-Passenger"
+    - "Public Transit"
+    - "School Bus"
+    - "Other"
+
+  # Valid trip purposes from NHTS survey
+  purpose_options:
+    - "Home"
+    - "Work"
+    - "School/Daycare/Religious"
+    - "Medical/Dental services"
+    - "Shopping/Errands"
+    - "Meals"
+    - "Social/Recreational"
+    - "Transport someone"
+    - "Something else"
+

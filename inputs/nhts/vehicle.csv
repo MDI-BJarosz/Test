@@ -1,0 +1,367 @@
+vehicle_case_id,vehicle_id,household_id,is_commercial,vehicle_type,main_driver
+900001359801,1,9000013598,No,Automobile/Car/Stationwagon,Person1
+900001376101,1,9000013761,No,Automobile/Car/Stationwagon,Person1
+900001397001,1,9000013970,No,Automobile/Car/Stationwagon,Person1
+900001398701,1,9000013987,No,Pickup Truck,Person1
+900001398702,2,9000013987,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900001460801,1,9000014608,No,Automobile/Car/Stationwagon,Person1
+900001460802,2,9000014608,No,Automobile/Car/Stationwagon,Person 3
+900001460803,3,9000014608,No,Van (Minivan/Cargo/Passenger),Person 2
+900001460804,4,9000014608,No,Automobile/Car/Stationwagon,Person 2
+900001536201,1,9000015362,No,Pickup Truck,Person1
+900001536202,2,9000015362,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900001565701,1,9000015657,No,Automobile/Car/Stationwagon,Person1
+900001565702,2,9000015657,No,Automobile/Car/Stationwagon,Person 2
+900001567601,1,9000015676,Yes,Automobile/Car/Stationwagon,Person1
+900001567602,2,9000015676,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900001598701,1,9000015987,No,Automobile/Car/Stationwagon,Person1
+900001598702,2,9000015987,No,Automobile/Car/Stationwagon,Person 2
+900001701301,1,9000017013,No,Automobile/Car/Stationwagon,Person 2
+900001701302,2,9000017013,No,Automobile/Car/Stationwagon,Person1
+900001749101,1,9000017491,No,Van (Minivan/Cargo/Passenger),Person1
+900001777901,1,9000017779,No,Automobile/Car/Stationwagon,Person1
+900001777902,2,9000017779,No,Pickup Truck,Person1
+900001785501,1,9000017855,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900001829201,1,9000018292,No,Van (Minivan/Cargo/Passenger),Person1
+900001893201,1,9000018932,No,Automobile/Car/Stationwagon,Person 3
+900001893202,2,9000018932,No,Van (Minivan/Cargo/Passenger),Person 2
+900001916301,1,9000019163,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900001916302,2,9000019163,No,Pickup Truck,Person1
+900001916303,3,9000019163,No,Recreational vehicle (RV)/Motorhome,No one
+900004580201,1,9000045802,No,Automobile/Car/Stationwagon,Person1
+900004628001,1,9000046280,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900004628002,2,9000046280,No,Automobile/Car/Stationwagon,Person 2
+900004683201,1,9000046832,No,Automobile/Car/Stationwagon,Person 4
+900004761501,1,9000047615,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900004761502,2,9000047615,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900004761503,3,9000047615,No,Automobile/Car/Stationwagon,No one
+900004805801,1,9000048058,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900004805802,2,9000048058,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900004945801,1,9000049458,No,Van (Minivan/Cargo/Passenger),Person 2
+900004945802,2,9000049458,No,Automobile/Car/Stationwagon,Person 4
+900004945803,3,9000049458,No,Automobile/Car/Stationwagon,Person 3
+900004951901,1,9000049519,Yes,Pickup Truck,Person1
+900004951902,2,9000049519,No,Automobile/Car/Stationwagon,Person 2
+900004951903,3,9000049519,No,Automobile/Car/Stationwagon,Person 3
+900005105001,1,9000051050,Yes,Pickup Truck,Person1
+900005105002,2,9000051050,Yes,Pickup Truck,Person 2
+900005105003,3,9000051050,No,Automobile/Car/Stationwagon,Person1
+900005105004,4,9000051050,No,Automobile/Car/Stationwagon,Person 3
+900005105005,5,9000051050,No,MotorcycleMoped,Person 2
+900005105006,6,9000051050,No,MotorcycleMoped,Person 2
+900005105007,7,9000051050,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900005120301,1,9000051203,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005149201,1,9000051492,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005149202,2,9000051492,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005162001,1,9000051620,No,Van (Minivan/Cargo/Passenger),No one
+900005174001,1,9000051740,Yes,Automobile/Car/Stationwagon,Person1
+900005178901,1,9000051789,No,Automobile/Car/Stationwagon,Person1
+900005182001,1,9000051820,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005182002,2,9000051820,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005184201,1,9000051842,No,Pickup Truck,Person 2
+900005184202,2,9000051842,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005200101,1,9000052001,No,Automobile/Car/Stationwagon,Person1
+900005200102,2,9000052001,No,Automobile/Car/Stationwagon,Person 2
+900005241101,1,9000052411,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005250601,1,9000052506,No,Automobile/Car/Stationwagon,Person1
+900005252801,1,9000052528,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",
+900005252802,2,9000052528,No,Automobile/Car/Stationwagon,
+900005266601,1,9000052666,No,Automobile/Car/Stationwagon,Person1
+900005266602,2,9000052666,Yes,Automobile/Car/Stationwagon,Person 2
+900005266603,3,9000052666,No,Automobile/Car/Stationwagon,Person 3
+900005279401,1,9000052794,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005279402,2,9000052794,No,Automobile/Car/Stationwagon,Person1
+900005279403,3,9000052794,No,Automobile/Car/Stationwagon,Person 2
+900005308301,1,9000053083,No,Automobile/Car/Stationwagon,Person1
+900005308302,2,9000053083,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005310201,1,9000053102,No,Pickup Truck,Person1
+900005310202,2,9000053102,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005471301,1,9000054713,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900005471302,2,9000054713,No,Pickup Truck,Person1
+900005471303,3,9000054713,No,Automobile/Car/Stationwagon,Person1
+900005575701,1,9000055757,,Pickup Truck,Person1
+900005575702,2,9000055757,,Pickup Truck,Person 2
+900005603401,1,9000056034,No,Automobile/Car/Stationwagon,Person1
+900005657201,1,9000056572,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900005657202,2,9000056572,Yes,Automobile/Car/Stationwagon,Person 3
+900005657203,3,9000056572,No,Automobile/Car/Stationwagon,Person1
+900005660301,1,9000056603,No,Pickup Truck,Person1
+900005660302,2,9000056603,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005660303,3,9000056603,No,Automobile/Car/Stationwagon,Person 3
+900005728101,1,9000057281,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005728102,2,9000057281,No,Automobile/Car/Stationwagon,Person1
+900005794901,1,9000057949,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900005794902,2,9000057949,No,Van (Minivan/Cargo/Passenger),Person1
+900005794903,3,9000057949,No,Automobile/Car/Stationwagon,Person 2
+900007291201,1,9000072912,No,Automobile/Car/Stationwagon,Person1
+900007328401,1,9000073284,No,Pickup Truck,Person1
+900007328402,2,9000073284,No,Automobile/Car/Stationwagon,Person1
+900007356901,1,9000073569,No,Pickup Truck,Person1
+900007401401,1,9000074014,No,Automobile/Car/Stationwagon,Person1
+900007401402,2,9000074014,Yes,Pickup Truck,Person1
+900007401403,3,9000074014,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900007414701,1,9000074147,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900007414702,2,9000074147,No,Automobile/Car/Stationwagon,Person1
+900007445501,1,9000074455,No,Automobile/Car/Stationwagon,No one
+900007445502,2,9000074455,Yes,Automobile/Car/Stationwagon,Person1
+900007502101,1,9000075021,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900007502102,2,9000075021,No,Automobile/Car/Stationwagon,Person 2
+900007513601,1,9000075136,No,Pickup Truck,Person1
+900007513602,2,9000075136,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900007521401,1,9000075214,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900007563501,1,9000075635,No,Pickup Truck,Person1
+900007563502,2,9000075635,No,Automobile/Car/Stationwagon,Person 2
+900007563503,3,9000075635,No,MotorcycleMoped,Person1
+900007638201,1,9000076382,No,Automobile/Car/Stationwagon,Person1
+900007660701,1,9000076607,No,Automobile/Car/Stationwagon,Person 3
+900007660702,2,9000076607,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900007672301,1,9000076723,No,Automobile/Car/Stationwagon,Person1
+900007727401,1,9000077274,No,Automobile/Car/Stationwagon,Person 2
+900007727402,2,9000077274,No,Automobile/Car/Stationwagon,
+900007754501,1,9000077545,No,Pickup Truck,Person1
+900007754502,2,9000077545,No,Automobile/Car/Stationwagon,Person 2
+900007754503,3,9000077545,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900008750401,1,9000087504,No,Automobile/Car/Stationwagon,Person1
+900008750402,2,9000087504,No,Automobile/Car/Stationwagon,Person 2
+900008772801,1,9000087728,No,Automobile/Car/Stationwagon,Person 2
+900008772802,2,9000087728,No,Pickup Truck,Person1
+900008777601,1,9000087776,No,Automobile/Car/Stationwagon,Person1
+900008777602,2,9000087776,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900008777603,3,9000087776,No,Automobile/Car/Stationwagon,Person 3
+900008777604,4,9000087776,No,Automobile/Car/Stationwagon,Person 2
+900008798801,1,9000087988,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900008798802,2,9000087988,No,Automobile/Car/Stationwagon,Person 2
+900008798803,3,9000087988,No,Pickup Truck,Person 2
+900008849701,1,9000088497,No,Automobile/Car/Stationwagon,Person1
+900008849702,2,9000088497,Yes,Automobile/Car/Stationwagon,Person 2
+900008849703,3,9000088497,No,Automobile/Car/Stationwagon,Person 3
+900008858601,1,9000088586,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900008858602,2,9000088586,No,Automobile/Car/Stationwagon,Person 2
+900008861701,1,9000088617,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900008861702,2,9000088617,No,Automobile/Car/Stationwagon,Person1
+900008861703,3,9000088617,No,Pickup Truck,Person1
+900008861704,4,9000088617,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900008925001,1,9000089250,No,Pickup Truck,Person1
+900008925002,2,9000089250,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900008925003,3,9000089250,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900008925004,4,9000089250,Yes,Van (Minivan/Cargo/Passenger),Person1
+900008926901,1,9000089269,No,Automobile/Car/Stationwagon,Person1
+900008926902,2,9000089269,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900008926903,3,9000089269,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900008948801,1,9000089488,Yes,Automobile/Car/Stationwagon,Person1
+900008948802,2,9000089488,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900008961201,1,9000089612,No,Automobile/Car/Stationwagon,Person1
+900008964401,1,9000089644,No,Automobile/Car/Stationwagon,Person1
+900008964402,2,9000089644,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900008994001,1,9000089940,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",
+900008994002,2,9000089940,No,Automobile/Car/Stationwagon,Someone else
+900009666701,1,9000096667,No,Automobile/Car/Stationwagon,Person 2
+900009666702,2,9000096667,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900009679601,1,9000096796,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900009679602,2,9000096796,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900009679603,3,9000096796,No,Automobile/Car/Stationwagon,Person 3
+900009679604,4,9000096796,Yes,Automobile/Car/Stationwagon,Person 4
+900009699301,1,9000096993,Yes,Automobile/Car/Stationwagon,Person1
+900009699302,2,9000096993,Yes,Automobile/Car/Stationwagon,Person 2
+900009745901,1,9000097459,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900009745902,2,9000097459,Yes,Pickup Truck,Person 2
+900009788901,1,9000097889,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900009788902,2,9000097889,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900009788903,3,9000097889,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900009826501,1,9000098265,No,Automobile/Car/Stationwagon,Person1
+900009826502,2,9000098265,No,Automobile/Car/Stationwagon,Person 2
+900009845201,1,9000098452,Yes,Automobile/Car/Stationwagon,Person 2
+900009845202,2,9000098452,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900009862701,1,9000098627,No,Automobile/Car/Stationwagon,Person1
+900009902601,1,9000099026,No,Automobile/Car/Stationwagon,Person1
+900009902602,2,9000099026,No,Automobile/Car/Stationwagon,Person 3
+900009902603,3,9000099026,Yes,Pickup Truck,Person 2
+900010487901,1,9000104879,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900010487902,2,9000104879,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900010541901,1,9000105419,No,Automobile/Car/Stationwagon,Person1
+900010543301,1,9000105433,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900010543302,2,9000105433,No,Automobile/Car/Stationwagon,Person1
+900010544901,1,9000105449,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900010544902,2,9000105449,No,Automobile/Car/Stationwagon,Person 2
+900010555501,1,9000105555,No,Automobile/Car/Stationwagon,Person1
+900010555502,2,9000105555,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 4
+900010555503,3,9000105555,No,Automobile/Car/Stationwagon,Person 2
+900010555504,4,9000105555,Yes,Pickup Truck,Person 5
+900010555505,5,9000105555,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900010555506,6,9000105555,Yes,Van (Minivan/Cargo/Passenger),Person 3
+900010621401,1,9000106214,No,Pickup Truck,Person1
+900010621402,2,9000106214,Yes,Pickup Truck,Person 2
+900010685701,1,9000106857,No,Automobile/Car/Stationwagon,
+900010685702,2,9000106857,No,Pickup Truck,
+900010685703,3,9000106857,No,MotorcycleMoped,
+900010690401,1,9000106904,No,Automobile/Car/Stationwagon,Person1
+900010718001,1,9000107180,No,Automobile/Car/Stationwagon,Person1
+900010718002,2,9000107180,No,Automobile/Car/Stationwagon,Person 3
+900010718003,3,9000107180,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900010718004,4,9000107180,No,Pickup Truck,Person 2
+900010784701,1,9000107847,No,Pickup Truck,Person1
+900010784702,2,9000107847,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900011363101,1,9000113631,No,Automobile/Car/Stationwagon,Person1
+900011439601,1,9000114396,Yes,Automobile/Car/Stationwagon,Person 2
+900011439602,2,9000114396,No,Pickup Truck,Person1
+900011445501,1,9000114455,Yes,Pickup Truck,Person1
+900011445502,2,9000114455,Yes,MotorcycleMoped,Person1
+900011454301,1,9000114543,Yes,Pickup Truck,Person 2
+900011454302,2,9000114543,No,Pickup Truck,Person1
+900011467501,1,9000114675,No,Automobile/Car/Stationwagon,Person1
+900011467502,2,9000114675,No,Automobile/Car/Stationwagon,Person 2
+900011519101,1,9000115191,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900011542301,1,9000115423,Yes,Van (Minivan/Cargo/Passenger),Person1
+900011542302,2,9000115423,No,Automobile/Car/Stationwagon,Person1
+900011542303,3,9000115423,No,Automobile/Car/Stationwagon,Person1
+900012493101,1,9000124931,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900012607401,1,9000126074,No,Automobile/Car/Stationwagon,Person1
+900012687301,1,9000126873,No,Automobile/Car/Stationwagon,Person 2
+900012687302,2,9000126873,No,Automobile/Car/Stationwagon,Person1
+900012716901,1,9000127169,No,Pickup Truck,Person 2
+900012716902,2,9000127169,Yes,Automobile/Car/Stationwagon,Person1
+900012719101,1,9000127191,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900012809601,1,9000128096,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900012839501,1,9000128395,No,Automobile/Car/Stationwagon,Person1
+900012839502,2,9000128395,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900012850701,1,9000128507,No,Automobile/Car/Stationwagon,Person1
+900012850702,2,9000128507,No,Automobile/Car/Stationwagon,Person1
+900014558701,1,9000145587,No,Automobile/Car/Stationwagon,Person 3
+900014575201,1,9000145752,No,Pickup Truck,Person1
+900014575202,2,9000145752,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900014640001,1,9000146400,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900014646201,1,9000146462,No,Automobile/Car/Stationwagon,Person 2
+900014688601,1,9000146886,No,Automobile/Car/Stationwagon,No one
+900014688602,2,9000146886,Yes,Automobile/Car/Stationwagon,Person1
+900014723101,1,9000147231,No,Automobile/Car/Stationwagon,Person1
+900014723102,2,9000147231,No,Automobile/Car/Stationwagon,Person 2
+900014759701,1,9000147597,No,Automobile/Car/Stationwagon,Person1
+900014759702,2,9000147597,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900014836501,1,9000148365,Yes,Automobile/Car/Stationwagon,Person1
+900014836502,2,9000148365,Yes,Automobile/Car/Stationwagon,Person 2
+900014836503,3,9000148365,No,MotorcycleMoped,Person1
+900014842601,1,9000148426,No,Pickup Truck,Person1
+900014842602,2,9000148426,No,Automobile/Car/Stationwagon,Person 2
+900014881401,1,9000148814,No,Automobile/Car/Stationwagon,Person1
+900014886701,1,9000148867,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900014932001,1,9000149320,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900014932002,2,9000149320,No,Automobile/Car/Stationwagon,Person 3
+900016250101,1,9000162501,No,Van (Minivan/Cargo/Passenger),Person1
+900016250102,2,9000162501,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016250103,3,9000162501,No,Automobile/Car/Stationwagon,Person 3
+900016257801,1,9000162578,No,Pickup Truck,Person1
+900016257802,2,9000162578,No,Van (Minivan/Cargo/Passenger),Person 2
+900016316301,1,9000163163,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016316302,2,9000163163,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016325601,1,9000163256,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016337201,1,9000163372,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016378901,1,9000163789,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016414801,1,9000164148,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016414802,2,9000164148,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016414803,3,9000164148,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 4
+900016414804,4,9000164148,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900016449801,1,9000164498,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016498301,1,9000164983,No,Automobile/Car/Stationwagon,Person1
+900016498302,2,9000164983,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016498303,3,9000164983,No,Automobile/Car/Stationwagon,Person 2
+900016498304,4,9000164983,Yes,Pickup Truck,Person1
+900016523301,1,9000165233,No,Automobile/Car/Stationwagon,Person1
+900016523302,2,9000165233,No,Automobile/Car/Stationwagon,Person1
+900016523303,3,9000165233,No,Automobile/Car/Stationwagon,Person1
+900016523304,4,9000165233,No,Automobile/Car/Stationwagon,Person 3
+900016523305,5,9000165233,Yes,Pickup Truck,Person1
+900016523306,6,9000165233,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016568701,1,9000165687,No,Automobile/Car/Stationwagon,Person1
+900016568702,2,9000165687,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016576701,1,9000165767,No,Pickup Truck,Person1
+900016576702,2,9000165767,No,Automobile/Car/Stationwagon,Person 2
+900016629101,1,9000166291,No,Automobile/Car/Stationwagon,Person1
+900016629102,2,9000166291,No,Automobile/Car/Stationwagon,Person 2
+900016629103,3,9000166291,No,Automobile/Car/Stationwagon,Person1
+900016629104,4,9000166291,No,MotorcycleMoped,Person1
+900016629105,5,9000166291,No,MotorcycleMoped,Person1
+900016706601,1,9000167066,No,Automobile/Car/Stationwagon,Person1
+900016706602,2,9000167066,No,Automobile/Car/Stationwagon,Person 2
+900016839401,1,9000168394,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016920601,1,9000169206,No,Automobile/Car/Stationwagon,Person1
+900016920602,2,9000169206,No,Automobile/Car/Stationwagon,Person 2
+900016930701,1,9000169307,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016930702,2,9000169307,No,Automobile/Car/Stationwagon,Person 2
+900016930703,3,9000169307,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 3
+900016953301,1,9000169533,No,Automobile/Car/Stationwagon,Person1
+900016953302,2,9000169533,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900016960401,1,9000169604,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900016970501,1,9000169705,No,Pickup Truck,Person1
+900016986601,1,9000169866,No,Automobile/Car/Stationwagon,Person1
+900017082301,1,9000170823,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900017082302,2,9000170823,No,Automobile/Car/Stationwagon,Person 2
+900017136701,1,9000171367,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900017136702,2,9000171367,No,Pickup Truck,Someone else
+900017136703,3,9000171367,No,Automobile/Car/Stationwagon,Person1
+900017136704,4,9000171367,No,MotorcycleMoped,Someone else
+900017136705,5,9000171367,No,MotorcycleMoped,Person1
+900017160101,1,9000171601,No,Pickup Truck,Person1
+900017160102,2,9000171601,No,Pickup Truck,Person 2
+900017209601,1,9000172096,No,Automobile/Car/Stationwagon,Person1
+900017209602,2,9000172096,No,Van (Minivan/Cargo/Passenger),Person 2
+900017209603,3,9000172096,No,Automobile/Car/Stationwagon,Person 3
+900017243801,1,9000172438,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900017265801,1,9000172658,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900017365301,1,9000173653,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900017365302,2,9000173653,Yes,Automobile/Car/Stationwagon,Person1
+900017390101,1,9000173901,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900017390102,2,9000173901,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900020871701,1,9000208717,No,Automobile/Car/Stationwagon,Person1
+900020871702,2,9000208717,No,Automobile/Car/Stationwagon,Person 2
+900020909101,1,9000209091,No,Automobile/Car/Stationwagon,Person1
+900020909102,2,9000209091,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900020925401,1,9000209254,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900020925402,2,9000209254,No,Automobile/Car/Stationwagon,Person 2
+900020980101,1,9000209801,No,Pickup Truck,No one
+900020980102,2,9000209801,No,Automobile/Car/Stationwagon,Person1
+900021028001,1,9000210280,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900021109201,1,9000211092,No,Automobile/Car/Stationwagon,Person1
+900021161501,1,9000211615,No,Automobile/Car/Stationwagon,Person1
+900021161502,2,9000211615,No,Pickup Truck,Person 2
+900021166401,1,9000211664,Yes,Automobile/Car/Stationwagon,Person1
+900021189801,1,9000211898,No,Automobile/Car/Stationwagon,Person1
+900021189802,2,9000211898,No,Automobile/Car/Stationwagon,Person 2
+900021189803,3,9000211898,No,Automobile/Car/Stationwagon,Person 3
+900021189804,4,9000211898,No,Pickup Truck,Person1
+900021189805,5,9000211898,No,Pickup Truck,Person1
+900021198201,1,9000211982,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900021198202,2,9000211982,No,Automobile/Car/Stationwagon,Person1
+900021263201,1,9000212632,No,Pickup Truck,Person1
+900021263202,2,9000212632,No,Pickup Truck,Person 2
+900021292001,1,9000212920,No,Automobile/Car/Stationwagon,Person1
+900021311501,1,9000213115,No,Pickup Truck,Person 2
+900021311502,2,9000213115,No,Pickup Truck,Person1
+900021328501,1,9000213285,No,Automobile/Car/Stationwagon,Someone else
+900021328502,2,9000213285,No,Pickup Truck,Someone else
+900021328503,3,9000213285,No,MotorcycleMoped,Someone else
+900021328504,4,9000213285,No,MotorcycleMoped,Someone else
+900021331301,1,9000213313,No,Automobile/Car/Stationwagon,Person1
+900021334301,1,9000213343,No,Automobile/Car/Stationwagon,Person1
+900021334302,2,9000213343,No,Automobile/Car/Stationwagon,Person 2
+900021369101,1,9000213691,No,Automobile/Car/Stationwagon,Person1
+900021369102,2,9000213691,No,Automobile/Car/Stationwagon,Person 2
+900021467001,1,9000214670,No,Automobile/Car/Stationwagon,Person1
+900021479501,1,9000214795,No,Automobile/Car/Stationwagon,Person1
+900021479502,2,9000214795,No,Automobile/Car/Stationwagon,Person 2
+900021479503,3,9000214795,No,Automobile/Car/Stationwagon,Person 2
+900021479504,4,9000214795,Yes,Automobile/Car/Stationwagon,Person 2
+900021535701,1,9000215357,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
+900021535702,2,9000215357,No,Automobile/Car/Stationwagon,Person 3
+900021535703,3,9000215357,No,Automobile/Car/Stationwagon,Person1
+900021535704,4,9000215357,Yes,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900021712401,1,9000217124,No,Automobile/Car/Stationwagon,Person1
+900021712402,2,9000217124,No,Pickup Truck,Person1
+900021712403,3,9000217124,No,Van (Minivan/Cargo/Passenger),Person 2
+900021715301,1,9000217153,No,Pickup Truck,Person1
+900021715302,2,9000217153,No,Automobile/Car/Stationwagon,Person 2
+900021768201,1,9000217682,No,Pickup Truck,Person1
+900021768202,2,9000217682,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person 2
+900021774101,1,9000217741,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900021774102,2,9000217741,Yes,Van (Minivan/Cargo/Passenger),Person 2
+900021774103,3,9000217741,No,Pickup Truck,Person1
+900021774104,4,9000217741,No,"SUV (Santa Fe, Tahoe, Jeep, etc.)",Person1
